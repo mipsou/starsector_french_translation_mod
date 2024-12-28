@@ -1,1 +1,4 @@
 .idea
+*_temp*
+*_temp*.csv
+modifications.patch
