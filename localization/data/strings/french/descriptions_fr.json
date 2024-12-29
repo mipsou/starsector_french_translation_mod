@@ -1,0 +1,158 @@
+{
+  "lightmg": {
+    "type": "WEAPON",
+    "text1": "Une catégorie d'arme vénérable à faible coût et facilement disponible, qui tire rapidement et a été utilisée efficacement contre les missiles et les chasseurs à courte portée tout au long de l'histoire du combat spatial. Presque inutile contre des cibles correctement blindées.\n\nEn raison de la facilité de fabrication et de modification, il existe des centaines de variantes. Toute arme qui tire rapidement des projectiles inertes propulsés chimiquement - facilement produits même par une forge automatique rudimentaire - sous un certain calibre peut être classée comme mitrailleuse légère montée sur vaisseau. Les mécanismes qui entraînent l'action de ces armes varient considérablement.\n\nPopulaire auprès des petits vaisseaux civils en raison de son faible coût. Les projectiles gainés de métaux à point de fusion élevé permettent une plus grande vitesse initiale et délivrent une quantité d'énergie cinétique étonnamment importante à courte portée."
+  },
+  "lightdualmg": {
+    "type": "WEAPON",
+    "text1": "Une version améliorée à double canon de la vénérable mitrailleuse légère. Pas efficace contre les cibles blindées, mais excellente pour la défense anti-missiles et anti-chasseurs à courte portée.\n\nComme la mitrailleuse légère standard, cette arme est populaire auprès des vaisseaux civils en raison de son faible coût et de sa facilité d'entretien."
+  },
+  "fragbomb": {
+    "type": "WEAPON",
+    "text1": "Libère un groupe de petites bombes flottantes qui conservent l'élan du vaisseau lanceur. Les bombes sont équipées d'un détonateur de proximité.\n\nUn lanceur de Bombes à Fragmentation tire des bombes à fragmentation Mark VI depuis trois tubes. Sans guidage ni système de propulsion, les bombes comptent sur un système de ciblage ami-ennemi. Leur grand nombre leur permet de couvrir une large bande d'espace, créant efficacement une barrière de Défense Ponctuelle à cet endroit, bien que pour une durée limitée. Lorsque le détonateur de proximité est déclenché par un vaisseau ennemi, la bombe explose, produisant des effets similaires à ceux des armes anti-aériennes."
+  },
+  "clusterbomb": {
+    "type": "WEAPON",
+    "text1": "Libère un groupe de petites bombes explosives flottantes. Plus efficace contre les cibles non blindées et à déplacement lent.\n\nLes bombes à fragmentation sont des armes simples mais efficaces. Sans système de propulsion propre, elles conservent l'élan du vaisseau lanceur et dépendent d'un détonateur de proximité pour exploser. Leur conception simple permet une production en masse, ce qui en fait une option populaire pour les vaisseaux de défense."
+  },
+  "arbalest": {
+    "type": "WEAPON",
+    "text1": "Une conception d'arme ancienne avec des dégâts élevés par tir pour sa taille. Les obus cinétiques sont particulièrement efficaces contre les boucliers ennemis.\n\nLes vaisseaux de patrouille lourds de l'époque de l'Effondrement étaient principalement équipés de la plateforme d'armes Arbalest Mk I ; cela explique probablement pourquoi l'Arbalest est considérée comme l'un des systèmes d'armement de vaisseau les plus récupérés dans le Secteur. Le système de refroidissement primitif et l'absence d'un éjecteur automatique entravent la cadence de tir et la fiabilité.\n\nLes projectiles plus lourds ne se brisent pas à l'impact comme les munitions plus légères et représentent une menace crédible pour les vaisseaux de classe frégate. Extrêmement précise, bien que tirant plus lentement qu'un canon vulcain. Excelle dans un rôle de défense ponctuelle."
+  },
+  "gauss": {
+    "type": "WEAPON",
+    "text1": "Une arme à longue portée conçue pour surcharger les boucliers de la cible. L'obus cinétique lourd qu'elle tire est également efficace contre tous les blindages sauf les plus lourds.\n\nUtilise des bobines magnétiques pour accélérer un large projectile composite ultra-dense à des vitesses relativistes. Généralement calibré dans la gamme des centaines de giga-ampères, dépassant rarement un téra-ampère. Et contrairement à la plupart des armes balistiques, a une charge de flux très élevée lors du tir. Les tourelles montées avec ce système ont un taux de rotation extrêmement faible.\n\nUne arme très efficace dont l'utilité est limitée par la faible puissance du réacteur des vaisseaux qui comportent généralement de grands emplacements d'armes balistiques."
+  },
+  "reaper": {
+    "type": "WEAPON",
+    "text1": "Une torpille lourde non guidée avec une ogive anti-matière. Dévastatrice contre les grands vaisseaux, mais vulnérable aux défenses ponctuelles.\n\nL'arme de frappe par excellence, une seule torpille Reaper est un grand système de livraison autopropulsé, blindé et non guidé pour une ogive nucléaire catalysée par AM. La science derrière le détonateur étonnamment compact est mal comprise dans le Secteur, bien que largement supposée être basée sur une physique classifiée secrète par l'autorité du Domaine. Ce qui est connu, c'est que trois ou quatre de ces torpilles passant à travers les arcs de défense ponctuelle suffisent à détruire même le plus grand vaisseau capital."
+  },
+  "atropos": {
+    "type": "WEAPON",
+    "text1": "Un rack de torpilles guidées avancées. La charge utile est plus petite que d'habitude pour faire place au système de guidage avancé et à la masse de réaction du système de manœuvre.\n\nLa torpille Atropos est une grande torpille guidée à portée étendue. Chaque rack monte deux torpilles qui peuvent être tirées séparément, permettant aux capitaines de frappe une flexibilité maximale. L'ogive nucléaire catalysée par AM typiquement utilisée dans les ogives de torpilles est absente ici car l'interférence baryonique du détonateur perturberait les systèmes de guidage. Elle est remplacée par une charge chimique plus petite, mais toujours puissante."
+  },
+  "atropos_single": {
+    "type": "WEAPON",
+    "text1": "Une seule torpille guidée avancée. La charge utile est plus petite que d'habitude pour faire place au système de guidage avancé et à la masse de réaction du système de manœuvre.\n\nLa torpille Atropos est une grande torpille guidée à portée étendue. L'ogive nucléaire catalysée par AM typiquement utilisée dans les ogives de torpilles est absente ici car l'interférence baryonique du détonateur perturberait les systèmes de guidage. Elle est remplacée par une charge chimique plus petite, mais toujours puissante."
+  },
+  "salamander": {
+    "type": "WEAPON",
+    "text1": "Un missile guidé spécialisé conçu pour perturber les systèmes de propulsion ennemis.\n\nLe missile Salamander est une arme spécialisée avec deux considérations de conception. La première est un mécanisme de suivi/ciblage extrêmement avancé qui lui permet de se diriger vers les moteurs ennemis, tout en évitant tous les autres points d'impact potentiels et les menaces de défense ponctuelle.\n\nLa seconde est une conception d'ogive spéciale qui, au lieu d'essayer de détruire la cible avec une force cinétique ou explosive, génère des champs électromagnétiques ciblés de haute magnitude. Lorsqu'un tel champ est créé à proximité de moteurs et de composants de coque non blindés, il neutralisera rapidement toute leur électronique, les rendant inutilisables jusqu'à leur réparation."
+  },
+  "harpoon": {
+    "type": "WEAPON",
+    "text1": "Rack de missiles guidés à moyenne portée et à charge utile élevée. Dévastateur contre les vaisseaux dont les boucliers sont désactivés.\n\nLe missile Harpoon est un missile de croisière à guidage actif conçu pour la frappe anti-navire. Chaque rack monte deux missiles qui peuvent être tirés séparément, permettant aux capitaines de frappe une flexibilité maximale. La charge utile est une ogive à haute capacité explosive conçue pour maximiser les dégâts structurels."
+  },
+  "mininglaser": {
+    "type": "WEAPON",
+    "text1": "Laser utilitaire bon marché câblé pour la défense contre les missiles et les chasseurs. Longue portée, mais handicapé par sa faible puissance.\n\nUn laser minier Mk I utilise un milieu amplificateur au gaz fluoré réadapté pour le combat. Le système de ciblage des micro-astéroïdes a été réaffecté pour suivre et cibler les missiles entrants. Pratiquement inutile contre tout ce qui est plus grand ou blindé. Dispose d'un faisceau de suivi intégré de 670nm."
+  },
+  "pdlaser": {
+    "type": "WEAPON",
+    "text1": "Petit laser conçu pour la défense contre les missiles et les chasseurs, avec une excellente capacité de suivi, des dégâts décents et une très courte portée.\n\nLe laser de défense ponctuelle est une arme de défense rapprochée populaire. Son système de suivi avancé et sa cadence de tir élevée en font un choix efficace pour la défense anti-missiles, bien que sa courte portée signifie qu'il ne peut pas engager les menaces avant qu'elles ne soient dangereusement proches."
+  },
+  "pdburst_fighter": {
+    "type": "WEAPON",
+    "text1": "Un laser à courte impulsion de haute intensité avec d'excellentes performances contre les missiles et les chasseurs. Le taux de recharge est réduit en raison d'un condensateur plus petit que les modèles standard dû aux exigences de montage sur châssis léger.\n\nLe laser de défense ponctuelle à impulsion est un perfectionnement supplémentaire des armes à faisceau PD standard. Le milieu amplificateur à commutation Q est pompé par impulsions, garantissant que la puissance délivrée au milieu amplificateur en saphir dopé au titane atteint un pic à un intervalle prédéfini. Le résultat est une arme qui tire une fois toutes les quelques secondes et est extrêmement efficace pour sa petite taille. La consommation d'énergie est suffisamment faible pour que même certains cœurs énergétiques de chasseurs puissent gérer la charge de tir."
+  },
+  "amblaster": {
+    "type": "WEAPON",
+    "text1": "Un canon à énergie à tir lent et à dégâts extrêmement élevés destiné à poser une menace pour les plus grands vaisseaux du Secteur. Ne peut être utilisé qu'à courte portée.\n\nLe Blaster Anti-Matière est une arme rare et puissante qui utilise une technologie avancée pour créer un faisceau d'énergie hautement focalisé capable de percer même les blindages les plus épais. Sa courte portée et sa cadence de tir lente sont compensées par sa capacité à infliger des dégâts catastrophiques en un seul tir."
+  },
+  "plasma": {
+    "type": "WEAPON",
+    "text1": "Une grande arme mystérieuse qui est l'un des infligeurs de dégâts soutenus les plus dévastateurs du Secteur, à condition que le vaisseau sur lequel elle est montée puisse gérer le flux qu'elle génère.\n\nLe canon à plasma est une arme énergétique avancée qui projette des boules de plasma surchauffé sur ses cibles. Le plasma est maintenu en cohésion par des champs de confinement complexes jusqu'à l'impact, où il se disperse de manière explosive. Les dégâts thermiques extrêmes peuvent faire fondre même les blindages les plus résistants, mais le système consomme une quantité énorme d'énergie."
+  },
+  "onslaught": {
+    "type": "SHIP",
+    "text1": "Une conception vénérable, les vaisseaux de bataille de classe Onslaught ont été créés pour servir l'Armada du Domaine il y a longtemps, avant le développement des armes de frappe avancées, des armes à énergie modernes et des systèmes de boucliers.\n\nL'Onslaught est un vaisseau de ligne robuste conçu pour le combat rapproché. Son blindage épais et ses nombreux emplacements d'armes en font une forteresse mobile capable de soutenir des dégâts considérables tout en ripostant avec une puissance de feu dévastatrice. Bien que dépassé par des conceptions plus modernes en termes de technologie, il reste un adversaire redoutable grâce à sa durabilité légendaire."
+  },
+  "conquest": {
+    "type": "SHIP",
+    "text1": "Le croiseur de bataille de classe Conquest est l'incarnation de la puissance de feu concentrée. Développé dans la période précédant juste la popularisation des chasseurs, la classe met l'accent sur la puissance de feu et la vitesse plutôt que sur la protection blindée.\n\nLes tacticiens de la Marine Spatiale de l'époque étaient convaincus que les nouveaux systèmes d'armement surpasseraient toujours le blindage et les boucliers et étaient donc la clé pour gagner un engagement. Alors pourquoi ne pas construire un vaisseau pour la vitesse et la puissance ? Lui donner la protection blindée d'un croiseur, mais l'armer avec les meilleures armes disponibles pour n'importe quel vaisseau, et le garder plus rapide que n'importe lequel de ces mastodontes de la ligne. Le Conquest est un bon exemple de ces concepts mis dans une coque. De nombreuses autres technologies avancées ont été incorporées dans la conception, y compris des supports d'armes conçus pour un engagement en cercle. Cette manœuvre nécessite une plus grande habileté de navigation tout en servant à fournir plus d'options tactiques aux officiers commandants."
+  },
+  "apogee": {
+    "type": "SHIP",
+    "text1": "Un explorateur lourd de haute technologie conçu pour les expéditions de longue durée. Équipé d'un générateur de boucliers avancé et d'une excellente dissipation de flux.\n\nLa classe présente une conception asymétrique avec une grande section avant, généralement équipée de scanners technologiques longue portée. Les capitaines d'Apogee sont habitués à opérer seuls et ont tendance à être un groupe indépendant et autonome.\n\nLe vaisseau peut tenir tête dans des engagements un contre un grâce à une utilisation intelligente de son puissant émetteur de bouclier et de ses moteurs puissants. Cependant, sa cote de blindage le fait paraître quelque peu fragile sur le papier, et il fait donc rarement partie des grandes actions de flotte.\n\nLes coûts de construction élevés signifient généralement que seuls les consortiums d'exploitation technologique fortunés peuvent se permettre un vaisseau de classe Apogee entièrement équipé pour un rôle d'exploration agressif."
+  },
+  "shrike": {
+    "type": "SHIP",
+    "text1": "Un destroyer d'attaque rapide avancé de la même équipe de conception que le quasi-omniprésent Wolf, le système de propulsion avancé du Shrike est conçu pour évacuer sélectivement le plasma dans une manœuvre de 'micropoussée'. Cela permet au Shrike de s'élancer dans les opportunités tactiques qui se présentent, frapper, et s'échapper avant qu'une contre-attaque appropriée ne soit montée. Les boucliers, le blindage et la capacité de flux soutenue sont quelque peu décevants en raison de la nécessité de construire une coque légère mais économique qui privilégie la vitesse d'attaque, ce qui a valu au Shrike la réputation d'un canon de verre mieux confié à des capitaines qualifiés.\n\nCertains éléments structurels uniques dans le système d'évacuation du plasma sont connus pour, avec l'usure, se corroder dans les atmosphères riches en oxygène, il faut donc prendre soin de réappliquer le revêtement en céramopolymère à chaque entretien de la coque."
+  },
+  "mule": {
+    "type": "SHIP",
+    "text1": "Le Mule est un cargo robuste et fiable capable de combat qui a bâti sa réputation sur les frontières peu patrouillées du Domaine. Après l'effondrement, l'attrait de la classe Mule n'a fait que croître en raison des cycles de chaos qui secouent le Secteur Persée, élevant le besoin d'un blindage solide et d'armes puissantes pour les commerçants, récupérateurs et prospecteurs autrement économes.\n\nLa conception modulaire du Mule permet une grande variété de configurations, des cargos purs aux navires de combat improvisés. Son blindage épais et ses emplacements d'armes polyvalents en font un choix populaire pour les capitaines qui doivent naviguer dans des systèmes dangereux."
+  },
+  "gemini": {
+    "type": "SHIP",
+    "text1": "Un cargo commun, trouvé dans les convois ou seul, utilisé pour transporter toutes sortes de marchandises à travers le Secteur. Dispose d'une baie de chasseurs unique pour renforcer ses défenses.\n\nLa conception du cargo de classe Gemini est hautement modulaire, permettant au vaisseau de servir dans une variété de rôles en combat et hors combat. L'ensemble du conteneur de fret est conçu autour d'un mécanisme de libération rapide qui permet à la coque principale du vaisseau d'accoster rapidement, de détacher sa section de fret pleine, et de l'échanger contre un autre conteneur de type Gemini en quelques minutes. De plus, de multiples supports d'armes moyens font du Gemini une plateforme viable de soutien de tir à longue portée. Le pont de vol est minuscule, initialement envisagé pour la réparation de drones miniers ou les opérations minières dangereuses. L'utilisation moderne dans le Secteur étend les installations du pont de vol à tous les types de chasseurs."
+  },
+  "sunder": {
+    "type": "SHIP",
+    "text1": "Un destroyer technologiquement avancé mais fragile de la fin de l'ère du Domaine, conçu pour fournir une puissance de feu supplémentaire dans les actions de flotte menées par la Marine du Domaine étirée plutôt que de servir en patrouilles indépendantes. Il dispose d'émetteurs de boucliers puissants et d'armes à énergie mais est vulnérable aux chasseurs et aux frégates d'assaut qui le prennent en flanc."
+  },
+  "hammerhead": {
+    "type": "SHIP",
+    "text1": "Un destroyer de ligne médiane de l'âge d'or du Domaine, le Hammerhead est respecté pour sa capacité à tenir en bataille ainsi que pour ses capacités balistiques."
+  },
+  "wolf": {
+    "type": "SHIP",
+    "text1": "Une frégate technologiquement avancée avec un générateur de boucliers efficace et un ensemble d'armes impressionnant qui lui permet de frapper bien au-dessus de sa catégorie. Ces mêmes caractéristiques signifient que son cœur énergétique de classe frégate a du mal à suivre, faisant de la gestion minutieuse du flux une priorité."
+  },
+  "hound": {
+    "type": "SHIP",
+    "text1": "Une classe de coque ancienne mais durable qui manque de générateur de boucliers, cette frégate est parfois utilisée pour transporter du fret au lieu du service de combat. Un officier chanceux ou doué pourrait faire fortune s'il avait la chance d'en commander une."
+  },
+  "claw": {
+    "type": "SHIP",
+    "text1": "Agile et équipé d'un générateur de boucliers de bas niveau, le Claw est principalement un chasseur de soutien. Les dégâts EMP qu'il inflige sont temporairement paralysants pour les cibles mal protégées, mais il est incapable d'infliger beaucoup de dégâts permanents par lui-même."
+  },
+  "drone_borer": {
+    "type": "SHIP",
+    "text1": "Lent et pas très robuste, ce drone minier modifié pour le combat est néanmoins capable de tenir les hostiles à l'écart de son vaisseau-mère pendant un certain temps. Déployé en nombre, il peut même présenter une menace crédible pour les petits vaisseaux de combat."
+  },
+  "drone_terminator": {
+    "type": "SHIP",
+    "text1": "Un drone de défense ponctuelle construit autour du redoutable Noyau Terminator d'analyse de cible, qui trouve des points faibles transitoires sur les missiles et les chasseurs avec une précision infaillible. Les rumeurs concernant l'IA du noyau dépassant par intermittence le niveau delta généralement autorisé pendant les situations de combat complexes restent non prouvées."
+  },
+  "supplies": {
+    "type": "RESOURCE",
+    "text1": "Fournitures diverses requises par les vaisseaux et l'équipage, allant des rations et uniformes aux munitions, pièces de rechange, matières premières pour micro-fabrication et composants préfabriqués."
+  },
+  "fuel": {
+    "type": "RESOURCE",
+    "text1": "Carburant standard pour vaisseaux spatiaux sur lequel repose la civilisation interstellaire. Composé d'antimatière piégée dans des coques de fullerène mélangée dans une mousse semi-stable avec des isotopes lourds d'hydrogène. Relativement sûr."
+  },
+  "crew": {
+    "type": "RESOURCE",
+    "text1": "Personnel qualifié expérimenté dans la maintenance et l'exploitation quotidienne des vaisseaux spatiaux et des petites installations terrestres."
+  },
+  "marines": {
+    "type": "RESOURCE",
+    "text1": "Lourdement armés et équipés d'armures assistées, les marines se spécialisent dans les opérations planétaires telles que les raids."
+  },
+  "lava": {
+    "type": "PLANET",
+    "text1": "Une planète géologiquement instable sans croûte permanente formée. Des fissures brillantes et des volcans actifs parsèment la surface, la lave qu'ils crachent se combinant pour former des coulées qui parcourent des centaines de kilomètres à travers la surface carbonisée."
+  },
+  "frozen": {
+    "type": "PLANET",
+    "text1": "La glace d'eau ou d'ammoniac est la principale caractéristique de surface de ce monde. Sous la surface, il peut y avoir un océan liquide ou une croûte rocheuse."
+  },
+  "barren": {
+    "type": "PLANET",
+    "text1": "Les radiations de l'étoile proche ravagent la surface de ce monde en raison de l'absence d'une couche d'ozone atmosphérique. Aucune activité géologique significative. Aucune forme de vie indigène."
+  },
+  "barren_deep_space": {
+    "type": "PLANET",
+    "text1": "Un rocher stérile filant à travers l'espace. Pas d'atmosphère et aucune activité géologique significative."
+  },
+  "toxic": {
+    "type": "PLANET",
+    "text1": "Les gaz de dioxyde de carbone et de soufre dominent l'atmosphère de ce monde, le rendant toxique pour toute forme de vie connue. De plus, les gaz créent un effet de serre incontrôlé qui augmente la température de surface et les pressions atmosphériques à des niveaux extrêmement élevés."
+  },
+  "water": {
+    "type": "PLANET",
+    "text1": "Une atmosphère primitive recouvre un océan-monde profond de centaines de kilomètres. Ses eaux grouillent de vie primitive et de vastes tapis d'analogues d'algues peuvent être vus par les instruments depuis l'espace. Un noyau de glace d'eau sur un manteau rocheux est créé par la pression terrifique de la mer."
+  }
+}

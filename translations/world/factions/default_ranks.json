@@ -1,0 +1,300 @@
+﻿{
+  "ranks": {
+    "factionLeader": {
+      "name": "FR:High Commander"
+    },
+    "houseLeader": {
+      "name": "FR:House Parriarch"
+    },
+    "houseLeaderMale": {
+      "name": "FR:House Patriarch"
+    },
+    "houseLeaderFemale": {
+      "name": "FR:House Matriarch"
+    },
+    "spaceSailor": {
+      "name": "FR:Spacer"
+    },
+    "spaceChief": {
+      "name": "FR:Chief"
+    },
+    "spaceEnsign": {
+      "name": "FR:Ensign"
+    },
+    "spaceLieutenant": {
+      "name": "FR:Lieutenant"
+    },
+    "spaceCommander": {
+      "name": "FR:Commander"
+    },
+    "spaceCaptain": {
+      "name": "FR:Captain"
+    },
+    "spaceAdmiral": {
+      "name": "FR:Admiral"
+    },
+    "spaceMarshal": {
+      "name": "FR:Space Marshal"
+    },
+    "groundPrivate": {
+      "name": "FR:Private"
+    },
+    "groundSergeant": {
+      "name": "FR:Sergeant"
+    },
+    "groundLieutenant": {
+      "name": "FR:Lieutenant"
+    },
+    "groundCaptain": {
+      "name": "FR:Captain"
+    },
+    "groundMajor": {
+      "name": "FR:Major"
+    },
+    "groundColonel": {
+      "name": "FR:Colonel"
+    },
+    "groundGeneral": {
+      "name": "FR:General"
+    },
+    "knightCaptain": {
+      "name": "FR:Knight-Captain"
+    },
+    "chiefHighInspector": {
+      "name": "FR:Chief High Inspector"
+    },
+    "deputyStarMarshal": {
+      "name": "FR:Deputy Star Marshal"
+    },
+    "guardHighDeputyExecutor": {
+      "name": "FR:Guard High Deputy Executor"
+    },
+    "citizen": {
+      "name": "FR:Citizen"
+    },
+    "agent": {
+      "name": "FR:Agent"
+    },
+    "specialAgent": {
+      "name": "FR:Special Agent"
+    },
+    "pilot": {
+      "name": "FR:Pilot"
+    },
+    "unknown": {
+      "name": "FR:Unknown"
+    },
+    "brother": {
+      "name": "FR:Brother"
+    },
+    "sister": {
+      "name": "FR:Sister"
+    },
+    "father": {
+      "name": "FR:Father"
+    },
+    "mother": {
+      "name": "FR:Mother"
+    },
+    "elder": {
+      "name": "FR:Elder"
+    },
+    "terrorist": {
+      "name": "FR:Terrorist"
+    },
+    "freedomFighter": {
+      "name": "FR:Freedom Fighter"
+    },
+    "clone": {
+      "name": "FR:Clone"
+    }
+  },
+  "posts": {
+    "factionLeader": {
+      "name": "FR:High Commander"
+    },
+    "patrolCommander": {
+      "name": "FR:Patrol Commander"
+    },
+    "fleetCommander": {
+      "name": "FR:Fleet Commander"
+    },
+    "baseCommander": {
+      "name": "FR:Base Commander"
+    },
+    "stationCommander": {
+      "name": "FR:Station Commander"
+    },
+    "outpostCommander": {
+      "name": "FR:Outpost Commander"
+    },
+    "portmaster": {
+      "name": "FR:Portmaster"
+    },
+    "intelligenceDirector": {
+      "name": "FR:Director of Intelligence"
+    },
+    "guardLeader": {
+      "name": "FR:Director of Special Forces"
+    },
+    "supplyOfficer": {
+      "name": "FR:Quartermaster"
+    },
+    "supplyManager": {
+      "name": "FR:Supply Manager"
+    },
+    "medicalSupplier": {
+      "name": "FR:Medical Supplier"
+    },
+    "administrator": {
+      "name": "FR:Administrator"
+    },
+    "military_administrator": {
+      "name": "FR:Administrator"
+    },
+    "freeAdmin": {
+      "name": "FR:Freelance Administrator"
+    },
+    "guildMaster": {
+      "name": "FR:Guildmaster"
+    },
+    "communeLeader": {
+      "name": "FR:Commune Leader"
+    },
+    "executive": {
+      "name": "FR:Executive"
+    },
+    "seniorExecutive": {
+      "name": "FR:Senior Executive"
+    },
+    "minorCriminal": {
+      "name": "FR:Small-time Criminal"
+    },
+    "criminal": {
+      "name": "FR:Criminal"
+    },
+    "spacer": {
+      "name": "FR:Spacer"
+    },
+    "genericMilitary": {
+      "name": "FR:Commander"
+    },
+    "trader": {
+      "name": "FR:Trader"
+    },
+    "merchant": {
+      "name": "FR:Merchant"
+    },
+    "investor": {
+      "name": "FR:Investor"
+    },
+    "commodities_agent": {
+      "name": "FR:Commodities Agent"
+    },
+    "entrepreneur": {
+      "name": "FR:Entrepreneur"
+    },
+    "shady": {
+      "name": "FR:Shady Character"
+    },
+    "gangster": {
+      "name": "FR:Gangster"
+    },
+    "smuggler": {
+      "name": "FR:Smuggler"
+    },
+    "fence": {
+      "name": "FR:Fence"
+    },
+    "armsDealer": {
+      "name": "FR:Arms Dealer"
+    },
+    "citizen": {
+      "name": "FR:Citizen"
+    },
+    "boss": {
+      "name": "FR:Boss"
+    },
+    "crewBoss": {
+      "name": "FR:Crew Boss"
+    },
+    "mercenary": {
+      "name": "FR:Mercenary Officer"
+    },
+    "officer": {
+      "name": "FR:Officer"
+    },
+    "officer_for_hire": {
+      "name": "FR:Officer (available for hire)"
+    },
+    "investigator": {
+      "name": "FR:Chief Investigator"
+    },
+    "agent": {
+      "name": "FR:Agent"
+    },
+    "specialAgent": {
+      "name": "FR:Special Agent"
+    },
+    "provost": {
+      "name": "FR:Provost"
+    },
+    "academician": {
+      "name": "FR:Academician"
+    },
+    "doctor": {
+      "name": "FR:Doctor"
+    },
+    "hacker": {
+      "name": "FR:Hacker"
+    },
+    "hermit": {
+      "name": "FR:Hermit"
+    },
+    "pensioner": {
+      "name": "FR:Pensioner"
+    },
+    "activist": {
+      "name": "FR:Activist"
+    },
+    "scientist": {
+      "name": "FR:Scientist"
+    },
+    "terrorist": {
+      "name": "FR:Terrorist"
+    },
+    "warlord": {
+      "name": "FR:Warlord"
+    },
+    "unknown": {
+      "name": "FR:Unknown"
+    },
+    "aristocrat": {
+      "name": "FR:Aristocrat"
+    },
+    "synodSubcurate": {
+      "name": "FR:Synod Subcurate"
+    },
+    "archcurate": {
+      "name": "FR:Archcurate"
+    },
+    "heretic": {
+      "name": "FR:Heretic"
+    },
+    "shrinePriest": {
+      "name": "FR:Curate Sacraria"
+    },
+    "excubitorOrbis": {
+      "name": "FR:Excubitor Orbis"
+    },
+    "initiate": {
+      "name": "FR:Initiate"
+    },
+    "novice": {
+      "name": "FR:Novice"
+    },
+    "pilgrim": {
+      "name": "FR:Pilgrim"
+    }
+  }
+}

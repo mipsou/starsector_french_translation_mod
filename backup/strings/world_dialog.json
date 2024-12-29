@@ -1,0 +1,17 @@
+{
+  "strings": {
+    "world.jump_point.approach": {},
+    "world.jump_point.star_anchor": {},
+    "world.jump_point.star_anchor_unusable": {},
+    "world.jump_point.no_fuel": {},
+    "world.jump_point.no_exits": {},
+    "world.planet.approach": {},
+    "world.planet.survey_begin": {},
+    "world.planet.survey_complete": {},
+    "world.planet.survey_failed": {},
+    "world.planet.landing_begin": {},
+    "world.planet.landing_complete": {},
+    "world.planet.landing_failed": {}
+  },
+  "tips": []
+}

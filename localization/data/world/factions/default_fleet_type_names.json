@@ -1,0 +1,25 @@
+{
+	"trade": "FR:Mercantile Convoy",
+	"tradeLiner": "FR:Liner Convoy",
+	"tradeSmuggler": "FR:Smuggler",
+	"smallTrader": "FR:Trader",
+	
+	"patrolSmall": "FR:Fast Picket",
+	"patrolMedium": "FR:Patrol",
+	"patrolLarge": "FR:Detachment",
+	
+	"taskForce": "FR:Task Force",
+	"battlegroup": "FR:Battle Group",
+	"scavengerSmall": "FR:Scavenger",
+	"scavengerMedium": "FR:Salvage Fleet",
+	"scavengerLarge": "FR:Recovery Fleet",
+	
+	"foodReliefFleet": "FR:Relief Fleet",
+	"pirateRaiders": "FR:Raiders",
+	"pirateArmada": "FR:Armada",
+	"mercScout": "FR:Scout",
+	"mercBountyHunter": "FR:Bounty Hunter",
+	"mercPrivateer": "FR:Privateer",
+	"mercPatrol": "FR:Mercenary Patrol",
+	"mercArmada": "FR:Mercenary Fleet"
+}

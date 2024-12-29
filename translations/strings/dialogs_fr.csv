@@ -1,0 +1,18 @@
+id,text
+fleetInteractionDialog.initialWithStationVsLargeFleet,"La $faction $fleetOrShip manœuvre pour rester soutenue par la station, permettant à votre flotte de se désengager. Cependant, vos forces risquent d'être harcelées pendant leur repli."
+fleetInteractionDialog.initialAggressive,"La $faction $fleetOrShip manœuvre pour vous empêcher de vous désengager facilement."
+fleetInteractionDialog.initialDisengage,"La $faction $fleetOrShip tente de se désengager."
+fleetInteractionDialog.initialCareful,"La $faction $fleetOrShip maintient prudemment sa distance, prête à se désengager en cas d'hostilités."
+fleetInteractionDialog.initialNeutral,"La $faction $fleetOrShip adopte une posture neutre."
+fleetInteractionDialog.initialHoldVsStrongerEnemy,"La $faction $fleetOrShip semble prête à combattre malgré la supériorité des forces adverses, mais ne cherchera probablement pas l'affrontement."
+
+jumpPointInteractionDialog.approach,"Votre $fleetOrShip approche du point de saut."
+jumpPointInteractionDialog.starAnchor,"Sauter à travers le trou de ver généré par le champ gravitationnel de l'étoile est un véritable exploit de navigation. Seuls les plus habiles oseraient même l'envisager, et même alors, les résultats sont imprévisibles."
+jumpPointInteractionDialog.starAnchorUnusable,"Vous ne pouvez pas utiliser ce point de saut."
+jumpPointInteractionDialog.noFuel,"Votre $fleetOrShip n'a plus de carburant et ne peut pas effectuer de saut."
+jumpPointInteractionDialog.noExits,"Le point de saut ne semble pas avoir de sorties fonctionnelles et est effectivement inutilisable."
+
+planetInteractionDialog.approach,"Votre $fleetOrShip approche de $planetName."
+
+campaignHelp.chmNewgame_text,"Bienvenue dans la campagne Starsector !\n\nVous pouvez appuyer sur F5 pour faire une sauvegarde rapide et F9 pour la charger.\n\nÉvitez d'affronter des flottes beaucoup plus grandes que la vôtre, ou celles qui ont des vaisseaux plus imposants, et n'oubliez pas que c'est un travail en cours, donc des bugs peuvent parfois survenir.\n\nBonne chance !"
+campaignHelp.chmNewgame_dismiss,"Fermer"

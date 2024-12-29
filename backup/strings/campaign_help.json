@@ -1,0 +1,17 @@
+{
+  "strings": {
+    "campaign.help.navigation.title": {},
+    "campaign.help.navigation.text": {},
+    "campaign.help.navigation.combat_warning": {},
+    "campaign.help.fleet.title": {},
+    "campaign.help.fleet.text": {},
+    "campaign.help.fleet.maintenance": {},
+    "campaign.help.trading.title": {},
+    "campaign.help.trading.text": {},
+    "campaign.help.trading.black_market": {},
+    "campaign.help.exploration.title": {},
+    "campaign.help.exploration.text": {},
+    "campaign.help.exploration.survey": {}
+  },
+  "tips": []
+}

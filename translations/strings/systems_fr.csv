@@ -1,0 +1,76 @@
+﻿id,type,text1,text2,text3,text4,notes
+maneuveringjets,,"FR: Système de propulsion auxiliaire qui améliore significativement la maniabilité du vaisseau.
+
+Les jets de manœuvre utilisent des propulseurs haute-pression pour augmenter la réactivité du vaisseau. Ce système est particulièrement utile pour les manœuvres d'évasion et le repositionnement tactique.
+
+Une amélioration simple mais efficace pour les vaisseaux qui privilégient la mobilité tactique.",,,,
+burndrive,,"FR: Système de propulsion d'urgence qui permet une accélération brutale et temporaire.
+
+Le Burn Drive surcharge temporairement les moteurs principaux pour une poussée massive. Cette accélération soudaine peut être utilisée pour l'engagement rapide ou la fuite, mais laisse le vaisseau vulnérable après utilisation.
+
+Particulièrement efficace pour les tactiques de charge frontale.",,,,
+temporalshell,,"FR: Système de manipulation temporelle qui ralentit le temps autour du vaisseau.
+
+La Coquille Temporelle crée une bulle de distorsion temporelle localisée, donnant au pilote un avantage tactique significatif. Le temps ralenti permet des manœuvres précises et une meilleure anticipation des menaces.
+
+Une technologie expérimentale qui requiert une expertise considérable pour être utilisée efficacement.",,,,
+plasmajets,,"FR: Système de propulsion avancé utilisant des jets de plasma pour des manœuvres rapides.
+
+Les Jets de Plasma offrent une accélération et une maniabilité supérieures aux systèmes conventionnels. La haute température du plasma peut également endommager les vaisseaux ennemis trop proches.
+
+Un système sophistiqué qui combine mobilité et capacité offensive.",,,,
+fastmissileracks,,"FR: Système de rechargement rapide qui augmente temporairement la cadence de tir des missiles.
+
+Les Râteliers à Missiles Rapides utilisent des mécanismes automatisés pour accélérer le rechargement des tubes de lancement. Cette capacité permet des salves concentrées dévastatrices.
+
+Particulièrement efficace pour saturer les défenses ennemies.",,,,
+damper,,"FR: Système défensif qui réduit temporairement les dégâts subis par le vaisseau.
+
+L'Amortisseur crée un champ d'énergie qui absorbe une partie des dégâts entrants. Cette protection supplémentaire peut faire la différence entre la survie et la destruction dans les moments critiques.
+
+Particulièrement utile pour les vaisseaux qui doivent encaisser des tirs soutenus.",,,,
+fluxshunt,,"FR: Système de gestion de flux qui permet de dissiper rapidement l'excès de flux.
+
+Le Dérivateur de Flux utilise des conduits d'évacuation spécialisés pour purger l'excès de flux du système. Cette capacité permet au vaisseau de retrouver rapidement sa pleine capacité de combat.
+
+Essential pour les vaisseaux qui utilisent des armes gourmandes en flux.",,,,
+highenergyfocus,,"FR: Système offensif qui augmente temporairement les dégâts des armes à énergie.
+
+Le Focus Haute Énergie concentre la puissance du réacteur dans les systèmes d'armement, augmentant significativement leur efficacité. Cette surcharge temporaire peut rapidement surcharger les boucliers ennemis.
+
+Particulièrement dévastateur sur les vaisseaux équipés principalement d'armes à énergie.",,,,
+targetingfeed,,"FR: Système de ciblage avancé qui améliore la précision des armes.
+
+Le Flux de Ciblage combine données des senseurs et analyses prédictives pour optimiser la précision des tirs. Cette amélioration est particulièrement notable sur les armes à longue portée.
+
+Un système de support essentiel pour les vaisseaux spécialisés dans l'engagement à distance.",,,,
+ammofeed,,"FR: Système logistique qui accélère le rechargement des armes balistiques.
+
+Le Flux de Munitions utilise des systèmes automatisés pour maximiser la cadence de tir des armes à projectiles. Cette amélioration permet de maintenir une pression constante sur l'ennemi.
+
+Particulièrement efficace sur les vaisseaux équipés de nombreuses armes balistiques.",,,,
+phasecloak,,"FR: Système de camouflage qui déphase partiellement le vaisseau de la réalité normale.
+
+La Cape de Phase utilise une technologie expérimentale pour faire passer le vaisseau dans un état semi-phasé, le rendant temporairement intangible. Cette capacité permet d'éviter complètement les dégâts mais consomme beaucoup de flux.
+
+Un système qui requiert une expertise considérable mais offre des possibilités tactiques uniques.",,,,
+forcedsanction,,"FR: Système offensif qui génère une zone de suppression autour du vaisseau.
+
+La Sanction Forcée projette un champ d'énergie qui perturbe les systèmes ennemis dans la zone d'effet. Les vaisseaux pris dans ce champ subissent des malus significatifs à leurs performances.
+
+Particulièrement efficace pour contrôler le champ de bataille et supporter les alliés.",,,,
+microburn,,"FR: Système de propulsion qui permet des poussées courtes mais intenses.
+
+Le Microburn offre des accélérations brutales mais contrôlées, idéales pour les manœuvres tactiques rapides. Cette mobilité accrue permet des changements de position rapides tout en maintenant une bonne contrôlabilité.
+
+Un excellent compromis entre le Burn Drive standard et les systèmes de manœuvre conventionnels.",,,,
+displacer,,"FR: Système de téléportation qui permet des sauts courts mais instantanés.
+
+Le Displacer utilise une technologie de téléportation expérimentale pour des repositionnements instantanés. Cette capacité permet d'éviter les tirs ennemis ou de se placer dans des positions tactiquement avantageuses.
+
+Un système qui nécessite une excellente anticipation pour être utilisé efficacement.",,,,
+quantumdisruptor,,"FR: Système offensif qui perturbe les boucliers et systèmes ennemis au niveau quantique.
+
+Le Disrupteur Quantique projette un faisceau d'énergie qui interfère avec les systèmes de défense ennemis au niveau subatomique. Cette perturbation peut temporairement désactiver ou affaiblir les boucliers.
+
+Une arme sophistiquée particulièrement efficace contre les vaisseaux high-tech.",,,,

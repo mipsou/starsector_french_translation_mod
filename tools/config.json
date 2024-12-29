@@ -1,0 +1,53 @@
+{
+    "paths": {
+        "translations": "translations/strings",
+        "output": "data/strings",
+        "backup": "backup/strings",
+        "game_executable": "d:/Fractal Softworks/Starsector/starsector.exe",
+        "game_directory": "d:/Fractal Softworks/Starsector"
+    },
+    "files": {
+        "strings": {
+            "csv": "strings_fr.csv",
+            "json": "strings_fr.json"
+        },
+        "fleet_dialog": {
+            "csv": "fleet_dialog_fr.csv",
+            "json": "fleetInteractionDialog_fr.json"
+        },
+        "world_dialog": {
+            "csv": "world_dialog_fr.csv",
+            "json": "worldInteractionDialog_fr.json"
+        },
+        "campaign_help": {
+            "csv": "campaign_help_fr.csv",
+            "json": "campaignHelp_fr.json"
+        },
+        "tutorial": {
+            "csv": "tutorial_fr.csv",
+            "json": "tutorial_fr.json"
+        },
+        "combat_tutorial": {
+            "csv": "combat_tutorial_fr.csv",
+            "json": "combat_tutorial_fr.json"
+        },
+        "ui": {
+            "csv": "ui_fr.csv",
+            "json": "ui_fr.json"
+        },
+        "tips": {
+            "csv": "tips_fr.csv",
+            "json": "tips_fr.json"
+        }
+    },
+    "encoding": "utf-8",
+    "csv_format": {
+        "delimiter": ",",
+        "quotechar": "\"",
+        "required_columns": ["id", "text"]
+    },
+    "json_format": {
+        "indent": 4,
+        "ensure_ascii": false
+    }
+}

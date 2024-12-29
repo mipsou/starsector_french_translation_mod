@@ -1,0 +1,106 @@
+﻿id,type,text1,text2,text3,text4,notes
+wolf,,"FR: Une frégate d'assaut rapide et polyvalente. Sa vitesse et sa maniabilité en font un excellent chasseur de destroyers.
+
+Le Wolf est équipé d'un générateur de flux surdimensionné pour sa taille, lui permettant de maintenir un feu soutenu avec des armes à haute consommation. Sa coque légère nécessite une approche tactique prudente.
+
+Particulièrement efficace lorsqu'il opère en meute avec d'autres frégates Wolf.",,,,
+lasher,,"FR: Une frégate de support conçue pour le combat à moyenne portée. Excellente plateforme d'armes pour sa taille.
+
+Le Lasher compense sa vitesse modérée par une excellente capacité d'armement et une bonne protection. Ses nombreux points d'emport d'armes en font une plateforme de support polyvalente.
+
+Idéal pour les capitaines qui privilégient la puissance de feu à la mobilité.",,,,
+hammerhead,,"FR: Un destroyer d'assaut robuste équipé pour le combat rapproché. Sa puissance de feu concentrée peut rapidement submerger les défenses ennemies.
+
+Le Hammerhead est conçu autour d'un concept simple : concentrer un maximum de puissance de feu vers l'avant. Son blindage renforcé lui permet de survivre assez longtemps pour exploiter cette puissance.
+
+Un vaisseau agressif qui excelle dans les attaques frontales directes.",,,,
+sunder,,"FR: Un destroyer spécialisé dans le support à longue portée. Sa puissance de feu énergétique impressionnante est contrebalancée par une défense fragile.
+
+Le Sunder embarque un générateur de flux exceptionnellement puissant qui alimente ses nombreuses armes à énergie. Cette spécialisation se fait au détriment de la protection et de la mobilité.
+
+Redoutable lorsqu'il est correctement protégé par des vaisseaux plus robustes.",,,,
+enforcer,,"FR: Un destroyer de ligne conçu pour le combat prolongé. Sa robustesse exceptionnelle en fait un excellent vaisseau de première ligne.
+
+L'Enforcer privilégie la durabilité à la sophistication. Son blindage épais et ses systèmes redondants lui permettent d'encaisser des dégâts importants tout en maintenant sa capacité de combat.
+
+Particulièrement efficace pour protéger les vaisseaux plus fragiles ou briser les formations ennemies.",,,,
+eagle,,"FR: Un croiseur polyvalent équipé pour exceller dans une variété de rôles. Sa flexibilité en fait un choix populaire parmi les commandants expérimentés.
+
+L'Eagle combine une excellente mobilité pour sa classe avec une configuration d'armement équilibrée. Son générateur de flux efficace lui permet de maintenir une pression constante sur l'ennemi.
+
+Particulièrement efficace lorsqu'il est utilisé comme navire amiral d'une flotte de frégates et de destroyers.",,,,
+falcon,,"FR: Un croiseur de ligne rapide spécialisé dans le combat à moyenne portée. Sa mobilité exceptionnelle lui permet de dicter les termes de l'engagement.
+
+Le Falcon sacrifie une partie de son blindage au profit de la vitesse et de la maniabilité. Ses systèmes de propulsion avancés lui permettent de rapidement repositionner sa puissante batterie d'armes.
+
+Un vaisseau qui récompense les capitaines capables d'exploiter sa mobilité tactique.",,,,
+venture,,"FR: Un croiseur civil modifié pour le combat. Ses origines commerciales lui confèrent des capacités de cargo importantes et une autonomie exceptionnelle.
+
+Le Venture conserve les vastes soutes qui ont fait sa réputation dans le commerce, tout en intégrant des systèmes d'armement militaires. Sa polyvalence en fait un excellent choix pour les missions d'exploration prolongées.
+
+Particulièrement apprécié des capitaines indépendants pour sa capacité à combiner les rôles de combat et de transport.",,,,
+dominator,,"FR: Un croiseur lourd conçu pour le combat de ligne. Sa puissance de feu dévastatrice est contrebalancée par une mobilité limitée.
+
+Le Dominator est construit autour d'une philosophie simple : maximiser la puissance de feu frontale. Son blindage exceptionnellement épais lui permet de survivre assez longtemps pour décimer ses adversaires.
+
+Un vaisseau qui excelle dans les batailles rangées mais qui nécessite un support pour compenser son manque de mobilité.",,,,
+aurora,,"FR: Un croiseur high-tech qui privilégie la sophistication à la robustesse. Ses systèmes avancés lui permettent de surpasser technologiquement ses adversaires.
+
+L'Aurora représente l'apogée de la technologie navale civile. Ses boucliers avancés et ses systèmes d'armement sophistiqués en font un adversaire redoutable, malgré son blindage relativement léger.
+
+Un vaisseau qui nécessite un équipage hautement qualifié pour exploiter pleinement son potentiel.",,,,
+onslaught,,"FR: Un cuirassé de ligne légendaire, véritable forteresse mobile. Sa puissance de feu dévastatrice et son blindage massif en font l'un des vaisseaux les plus redoutables du secteur.
+
+L'Onslaught est le summum de la philosophie de combat brutale : une concentration maximale de puissance de feu et de protection. Ses nombreuses batteries d'armes lourdes peuvent réduire en miettes même les vaisseaux les plus résistants.
+
+Un mastodonte qui nécessite un support important pour compenser sa mobilité extrêmement limitée, mais dont la simple présence peut changer le cours d'une bataille.",,,,
+conquest,,"FR: Un porte-vaisseaux de combat lourd qui combine puissance de feu et capacité de projection de force. Sa polyvalence en fait un excellent choix comme vaisseau amiral.
+
+Le Conquest équilibre habilement capacités offensives et défensives. Ses hangars permettent de déployer des escadrons de chasseurs tout en maintenant une présence imposante avec ses batteries d'armes lourdes.
+
+Particulièrement efficace comme centre d'un groupe de combat tactique.",,,,
+paragon,,"FR: Un cuirassé high-tech qui représente le pinacle de la technologie militaire. Ses systèmes de défense avancés en font une forteresse quasiment impénétrable.
+
+Le Paragon utilise des technologies de pointe pour créer une bulle de domination absolue autour de lui. Ses boucliers omnidirectionnels et ses systèmes de défense intégrés le rendent pratiquement invulnérable aux attaques conventionnelles.
+
+Un vaisseau qui impose le respect par sa seule présence, capable de tenir tête à des flottes entières.",,,,
+legion,,"FR: Un porte-vaisseaux lourd conçu pour le support de flotte à longue portée. Sa capacité à projeter la puissance aérienne en fait un multiplicateur de force redoutable.
+
+La Legion combine une importante capacité de transport de chasseurs avec des systèmes d'armement défensifs efficaces. Ses vastes hangars peuvent accueillir et maintenir plusieurs escadrons de chasseurs et de bombardiers.
+
+Excellent vaisseau amiral pour les commandants qui privilégient les tactiques de guerre aérospatiale.",,,,
+astral,,"FR: Un porte-vaisseaux high-tech spécialisé dans les opérations de frappe à longue portée. Sa sophistication technologique lui permet de coordonner des attaques complexes.
+
+L'Astral représente l'aboutissement des technologies de contrôle de chasseurs. Ses systèmes de commandement avancés permettent de coordonner des frappes chirurgicales précises à grande distance.
+
+Un vaisseau qui excelle dans l'art subtil de la guerre asymétrique.",,,,
+hyperion,,"FR: Une frégate de phase expérimentale. Sa technologie de déphasage avancée lui permet de se déplacer à travers l'espace conventionnel de manière imprévisible.
+
+L'Hyperion représente l'une des applications les plus audacieuses de la technologie de phase. Sa capacité à se déphaser brièvement de la réalité lui permet d'éviter les tirs ennemis et de frapper depuis des angles impossibles.
+
+Un vaisseau qui requiert une maîtrise exceptionnelle mais qui peut être dévastateur entre les mains d'un pilote expérimenté.",,,,
+shade,,"FR: Une frégate furtive équipée de technologie de dissimulation avancée. Sa capacité à opérer discrètement en fait un excellent vaisseau de reconnaissance.
+
+Le Shade utilise des systèmes de camouflage sophistiqués pour réduire sa signature au minimum. Sa discrétion lui permet de s'infiltrer derrière les lignes ennemies et de frapper des cibles vulnérables.
+
+Particulièrement efficace pour les missions de reconnaissance et les frappes chirurgicales.",,,,
+tempest,,"FR: Une frégate d'attaque high-tech ultra-rapide. Sa vitesse exceptionnelle et ses systèmes d'armement avancés en font un intercepteur redoutable.
+
+Le Tempest compense sa fragilité par une vitesse et une maniabilité sans égales. Ses armes à énergie de pointe lui permettent d'engager efficacement des cibles plus grandes tout en maintenant sa mobilité.
+
+Un vaisseau qui excelle dans les tactiques de hit-and-run et le harcèlement des lignes arrière ennemies.",,,,
+wasp,,"FR: Un chasseur léger standard équipé pour le combat rapproché. Sa simplicité et sa fiabilité en font un excellent chasseur de première ligne.
+
+Le Wasp est conçu pour être produit en masse et facilement remplaçable. Sa vitesse et sa maniabilité lui permettent d'intercepter efficacement les missiles et de harceler les vaisseaux plus grands.
+
+Particulièrement efficace en grand nombre pour submerger les défenses ennemies.",,,,
+broadsword,,"FR: Un chasseur lourd conçu pour le combat prolongé. Son blindage renforcé lui permet de survivre plus longtemps que les chasseurs légers standards.
+
+Le Broadsword privilégie la durabilité à la vitesse. Son armement polyvalent et sa protection accrue lui permettent d'engager efficacement une variété de cibles, des chasseurs aux frégates légères.
+
+Un excellent choix pour les missions d'escorte et de patrouille.",,,,
+longbow,,"FR: Un bombardier spécialisé dans les frappes à longue portée. Ses missiles guidés en font une menace sérieuse pour les grands vaisseaux.
+
+Le Longbow opère à distance de sécurité, utilisant ses missiles à longue portée pour harceler les vaisseaux capitaux. Sa faible vitesse et son blindage léger nécessitent une escorte pour opérer efficacement.
+
+Particulièrement redoutable lorsqu'il est déployé en escadrons coordonnés.",,,,

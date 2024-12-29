@@ -1,0 +1,17 @@
+{
+  "strings": {
+    "campaign.help.navigation.title": "Navigation",
+    "campaign.help.navigation.text": "Utilisez les touches ZQSD ou les flèches pour déplacer votre flotte. Maintenez SHIFT pour accélérer. La touche ESPACE met en pause le jeu.",
+    "campaign.help.navigation.combat_warning": "Attention aux combats ! Votre flotte est vulnérable pendant la navigation.",
+    "campaign.help.fleet.title": "Gestion de Flotte",
+    "campaign.help.fleet.text": "Gérez votre flotte via l'interface de flotte (F). Surveillez votre carburant et vos provisions.",
+    "campaign.help.fleet.maintenance": "L'entretien mensuel dépend de la taille de votre flotte. Plus de vaisseaux = plus de coûts.",
+    "campaign.help.trading.title": "Commerce",
+    "campaign.help.trading.text": "Achetez à bas prix et vendez plus cher. Les prix varient selon les marchés.",
+    "campaign.help.trading.black_market": "Le marché noir offre de meilleurs prix mais augmente la suspicion.",
+    "campaign.help.exploration.title": "Exploration",
+    "campaign.help.exploration.text": "Explorez pour trouver des ressources et des secrets. Équipez-vous bien avant de partir.",
+    "campaign.help.exploration.survey": "L'étude des planètes nécessite des équipements spéciaux et du carburant."
+  },
+  "tips": []
+}

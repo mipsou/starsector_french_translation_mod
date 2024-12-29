@@ -1,0 +1,17 @@
+{
+  "strings": {
+    "world.jump_point.approach": "Votre $fleetOrShip approche du point de saut.",
+    "world.jump_point.star_anchor": "Sauter à travers le trou de ver généré par le champ gravitationnel de l'étoile est un véritable exploit de navigation. Seuls les plus habiles oseraient même l'envisager.",
+    "world.jump_point.star_anchor_unusable": "Vous ne pouvez pas utiliser ce point de saut.",
+    "world.jump_point.no_fuel": "Votre $fleetOrShip n'a plus de carburant et ne peut pas effectuer de saut.",
+    "world.jump_point.no_exits": "Le point de saut ne semble pas avoir de sorties fonctionnelles.",
+    "world.planet.approach": "Votre $fleetOrShip approche de $planetName.",
+    "world.planet.survey_begin": "Début de l'étude de $planetName.",
+    "world.planet.survey_complete": "Étude de $planetName terminée.",
+    "world.planet.survey_failed": "Étude de $planetName échouée.",
+    "world.planet.landing_begin": "Début de l'atterrissage sur $planetName.",
+    "world.planet.landing_complete": "Atterrissage sur $planetName terminé.",
+    "world.planet.landing_failed": "Atterrissage sur $planetName échoué."
+  },
+  "tips": []
+}

@@ -1,0 +1,14 @@
+{
+  "strings": {
+    "fleet.interaction.initial.aggressive": {},
+    "fleet.interaction.initial.aggressive_pirate": {},
+    "fleet.interaction.initial.aggressive_no_faction": {},
+    "fleet.interaction.initial.neutral": {},
+    "fleet.interaction.initial.neutral_pirate": {},
+    "fleet.interaction.initial.neutral_no_faction": {},
+    "fleet.interaction.initial.friendly": {},
+    "fleet.interaction.initial.friendly_pirate": {},
+    "fleet.interaction.initial.friendly_no_faction": {}
+  },
+  "tips": []
+}

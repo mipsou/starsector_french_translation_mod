@@ -8,7 +8,8 @@
   "description":"Unofficial French translation - Help us translating this game on GitHub : github.com/grena/starsector_french_translation_mod",
   "gameVersion":"0.97a-RC11",
   "replace":[
-    "data/strings/tips.json"
+    {"starsector-core/data/strings/tips.json": "data/strings/tips.json"},
+    {"starsector-core/data/world/factions/default_ship_roles.json": "data/world/factions/default_ship_roles.json"}
   ],
   "jars":[],
   "dependencies":[]

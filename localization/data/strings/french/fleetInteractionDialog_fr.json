@@ -1,0 +1,11 @@
+{
+  "fleet.interaction.initial.aggressive": "La $fleetName $faction s'approche avec des intentions hostiles.",
+  "fleet.interaction.initial.aggressive_pirate": "Une $fleetName pirate s'approche avec des intentions hostiles.",
+  "fleet.interaction.initial.aggressive_no_faction": "Une $fleetName s'approche avec des intentions hostiles.",
+  "fleet.interaction.initial.neutral": "La $fleetName $faction s'approche.",
+  "fleet.interaction.initial.neutral_pirate": "Une $fleetName pirate s'approche.",
+  "fleet.interaction.initial.neutral_no_faction": "Une $fleetName s'approche.",
+  "fleet.interaction.initial.friendly": "La $fleetName $faction amicale s'approche.",
+  "fleet.interaction.initial.friendly_pirate": "Une $fleetName pirate... amicale ? s'approche.",
+  "fleet.interaction.initial.friendly_no_faction": "Une $fleetName amicale s'approche."
+}

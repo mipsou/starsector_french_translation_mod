@@ -1,0 +1,287 @@
+﻿id,type,text1,text2,text3,text4,notes
+lightmg,,"FR: Une mitrailleuse légère conçue pour le support rapproché. Excellente contre les chasseurs et les frégates légères.
+
+La Light MG combine une cadence de tir élevée avec une bonne précision à courte portée. Sa consommation de munitions modérée en fait une arme efficace pour les engagements prolongés.
+
+Particulièrement efficace en configuration multiple pour saturer les défenses ennemies.",,,,
+lightdualmg,,"FR: Une version améliorée à double canon de la vénérable mitrailleuse légère. Inefficace contre les cibles blindées, mais excelle dans un rôle anti-missile et anti-chasseur depuis l'aube du combat spatial humain.
+
+Il s'agit d'un montage double de la même arme à projectiles chimiques inertes de petit calibre à tir rapide connue de tous les pilotes du Secteur. Un excellent montage de défense ponctuelle, qui excelle à la fois dans l'interception de missiles et le rôle anti-chasseur.
+
+La grande quantité d'énergie cinétique délivrée aux systèmes de boucliers des vaisseaux ennemis à courte portée provoque généralement une surcharge des émetteurs, une option tactique souvent négligée par les capitaines inexpérimentés.",,,,
+lightmortar,,"FR: Une arme archaïque qui tire des obus anti-blindage avec une faible cadence de tir, une faible vitesse initiale et une portée limitée. Sa faible accumulation de flux est son seul avantage.
+
+Les plans de l'arme pour les Mortiers Légers ne les destinaient pas du tout aux vaisseaux spatiaux, mais une modification ingénieuse du mécanisme de chargement par la culasse permet leur installation et leur utilisation en dehors d'un environnement atmosphérique. Au combat, le Mortier Léger peut faire peu de choses contre les cibles mobiles ou blindées en raison de sa terrible rotation de montage et de sa cadence de tir. Néanmoins, il est souvent utilisé pour former les officiers d'artillerie novices aux subtilités de la tactique et de la nomenclature balistique spatiale.
+
+Couramment installé sur les yachts privés et les véhicules interplanétaires solo car il est très léger et peu coûteux.",,,,
+heavymortar,,"FR: Une arme archaïque qui tire des obus anti-blindage plus gros avec une cadence de tir légèrement supérieure à celle de son petit cousin. La vitesse des projectiles est faible et la portée effective est courte. Sa faible accumulation de flux est son seul avantage.
+
+Le Mortier Lourd était à l'origine conçu pour le combat de surface planétaire. Ostensiblement destiné à briser les fortifications, il a été beaucoup plus utilisé dans les bombardements urbains. Les mécanismes internes robustes permettent son installation et son utilisation en dehors d'un environnement atmosphérique avec seulement des ajustements mineurs, notamment le remplacement du module de télémétrie/ciblage automatique. S'il est employé contre une cible grande, non blindée et lente, le mortier lourd peut s'avérer très efficace.",,,,
+vulcan,,"FR: Une arme à tir rapide particulièrement dévastatrice contre les missiles et les chasseurs à bout portant. La précision se dégrade rapidement pendant les rafales prolongées.
+
+Un mécanisme de synchronisation avancé bat au cœur de cette plateforme d'arme multi-canons, généralement fabriquée uniquement par les Autofactories sous licence de l'Hégémonie. Les munitions utilisent généralement des pointes en uranium appauvri et sont non explosives. Les multiples canons permettent une cadence de tir extrêmement élevée, qui a un coût en flux.",,,,
+lightac,,"FR: Un canon automatique de petit calibre avec une bonne portée pour une arme si légère. Conçu pour affaiblir les boucliers ennemis, particulièrement efficace contre les générateurs plus faibles.
+
+L'arme tire des projectiles cinétiques à haute vitesse conçus pour surcharger facilement les boucliers ennemis. Dispose d'un chargeur automatique et est refroidi par liquide.
+
+Excellente arme de soutien pour les petits vaisseaux. La faible vitesse de rotation du montage en fait un mauvais choix contre les chasseurs et les missiles.",,,,
+lightdualac,,"FR: Une version à double canon du Canon Automatique Léger. Une excellente arme de soutien à courte portée, très efficace pour faire tomber les boucliers, mais souffre d'une portée effective plus courte en raison du fort recul.
+
+Une conception mécanique ingénieusement élégante empêche les ports d'éjection de se bloquer tout en expulsant deux fois plus de douilles usées que le châssis standard. Comme la version à canon unique, l'arme tire des projectiles à haute vitesse conçus pour percer les boucliers ennemis. Les systèmes de chargeur automatique et de refroidissement par liquide sont identiques à la version à canon unique.",,,,
+lightag,,"FR: Un canon de petit calibre conçu pour les combats à courte portée, excellent contre le blindage et avec une cadence de tir superbe.
+
+Canon de petit calibre conçu pour tirer des obus hautement explosifs. La conception des systèmes de refroidissement et du chargeur automatique met l'accent sur la sécurité et la prévention des départs intempestifs potentiellement causés par des niveaux de flux élevés. Favori des capitaines de destroyers qui ont quelque chose à prouver.",,,,
+fragbomb,,"FR: Libère un groupe de bombes flottantes qui conservent l'élan du vaisseau lanceur. Les bombes sont équipées d'une fusée de proximité.
+
+Un lanceur de Bombes à Fragmentation tire des bombes Mark VI depuis trois tubes. Sans guidage ni système de propulsion, les bombes dépendent d'un système de ciblage ami-ennemi. Leur grand nombre leur permet de couvrir une large zone de l'espace, créant efficacement une barrière de Défense Ponctuelle à cet endroit, bien que pour une durée limitée. Lorsque la fusée de proximité est déclenchée par un vaisseau ennemi, la bombe détonne, produisant des effets similaires à ceux des armes antiaériennes.",,,,
+clusterbomb,,"FR: Libère un groupe de bombes explosives flottantes. Plus efficace contre les cibles non blindées et à déplacement lent.
+
+Un lanceur de Bombes en Grappe est équipé de trois tubes conçus pour tirer des dizaines de bombes à charge creuse Mark II. Les bombes ne sont pas guidées et n'ont pas de système de propulsion, s'appuyant sur l'élan initial du vaisseau d'attaque pour engager la cible. Elles sont équipées d'un scanner de ciblage ami-ennemi et ne détonent que lors de l'impact avec une cible appropriée. La charge explosive formée est très efficace contre les cibles non blindées. Le nombre impressionnant de bombes qui peuvent être déployées par ce système d'arme est stupéfiant, ce qui fait de la Bombe en Grappe une arme utile pour le déni de zone.",,,,
+bomb,,"FR: Un système d'armement éprouvé, la soute à bombes contient plusieurs ogives qui s'appuient sur la vitesse du vaisseau lanceur pour atteindre leur cible.
+
+Chaque soute à bombes est équipée de plusieurs bombes Comp-X hautement explosives non guidées qui peuvent être larguées une par une. Les bombes n'ont pas de système de propulsion et dépendent de la vitesse du vaisseau lanceur pour les porter jusqu'à la cible (c'est-à-dire, bombardement en piqué). Le blindage atmosphérique intrinsèque à la conception donne également aux bombes une longue durée de vie dans un environnement hostile de Défense Ponctuelle.",,,,
+lightneedler,,"FR: Tire des rafales de petites fléchettes à une cadence de tir élevée. Le volume de tir peut rapidement submerger les projecteurs de bouclier, mais est généralement inefficace contre le blindage.
+
+Un Light Needler est un canon à fléchettes de petit calibre, conçu pour tirer des munitions sans douille. Dispose d'un système d'alimentation impressionnant qui peut délivrer des centaines d'aiguilles par seconde. Il n'y a pas besoin de système d'éjection, et l'espace ainsi libéré est utilisé pour fournir des unités de refroidissement supplémentaires, améliorant considérablement la cadence de tir.
+
+La doctrine navale du Domaine stipule que l'arme doit être utilisée sur les boucliers ennemis à longue portée, mais en cas d'urgence, les officiers d'artillerie dirigeront leurs Needlers sur les escadrons de chasseurs ennemis et les menaces de missiles à longue portée.",,,,
+railgun,,"FR: Une amélioration high-tech du Canon Automatique, le railgun tire des projectiles précis à moyenne portée. Comme le Canon Automatique, il excelle dans la surcharge des générateurs de bouclier ennemis.
+
+Version miniaturisée du Canon de Gauss, le railgun s'appuie sur un champ magnétique puissant pour tirer des obus à haute vitesse. La précision et la portée sont excellentes, et la tourelle peut pivoter rapidement lorsqu'elle ne tire pas.
+
+Le railgun est préféré au Canon Automatique par les officiers d'artillerie qui disposent d'une capacité de flux suffisante.",,,,
+gauss,,"FR: Une arme à longue portée conçue pour surcharger les boucliers de la cible. Le lourd projectile cinétique qu'elle tire est également efficace contre tous les blindages sauf les plus lourds.
+
+Utilise des bobines magnétiques pour accélérer un gros projectile ultra-dense composite à des vitesses relativistes. Généralement évalué dans la gamme des centaines de giga-ampères, dépassant rarement un téra-ampère. Et contrairement à la plupart des armes balistiques, a une charge de flux très élevée lorsqu'elle tire. Les tourelles montées avec ce système ont une vitesse de rotation extrêmement faible.
+
+Une arme très efficace dont l'utilité est limitée par la faible puissance du réacteur des vaisseaux qui comportent typiquement de grandes montures d'armes balistiques.",,,,
+irpulse,,"FR: Une arme à impulsion énergétique à courte portée qui inflige des dégâts cinétiques. Très efficace contre les boucliers, mais la précision diminue rapidement avec la distance.
+
+Le canon à impulsion IR est une arme à énergie relativement simple qui tire des impulsions d'énergie infrarouge concentrée. L'énergie est délivrée en une seule impulsion intense qui peut surcharger les boucliers ennemis. La portée est limitée par la dispersion du faisceau, et la précision diminue rapidement avec la distance.
+
+Bien que techniquement une arme à énergie, elle inflige des dégâts cinétiques et est particulièrement efficace contre les boucliers. Son faible coût en flux en fait une arme populaire pour les petits vaisseaux.",,,,
+irpulse_burst,,"FR: Une version modifiée du canon à impulsion IR standard qui tire des rafales de trois coups. Plus efficace à courte portée en raison de la dispersion accrue.
+
+Cette variante du canon à impulsion IR standard sacrifie la précision et la portée pour une puissance de feu accrue. Le système de tir en rafale délivre trois impulsions en succession rapide, augmentant considérablement les dégâts potentiels mais aussi la charge de flux.
+
+Comme son homologue à tir unique, il est particulièrement efficace contre les boucliers à courte portée.",,,,
+ioncannon,,"FR: Un canon à particules chargées qui perturbe les systèmes de la cible et désactive temporairement les armes et les moteurs. Efficace contre les boucliers.
+
+Le canon à ions tire un faisceau concentré de particules chargées qui perturbent les systèmes électroniques de la cible. Les systèmes touchés peuvent être temporairement désactivés, rendant le vaisseau cible plus vulnérable aux attaques conventionnelles.
+
+Bien que les dégâts directs soient minimes, l'effet de perturbation peut être dévastateur lorsqu'il est utilisé en coordination avec d'autres armes.",,,,
+ionbeam,,"FR: Un rayon continu de particules ionisées qui perturbe les systèmes de la cible. Efficace contre les boucliers et peut désactiver temporairement les systèmes du vaisseau cible.
+
+Le rayon ionique projette un faisceau continu de particules hautement chargées, créant une perturbation prolongée des systèmes de la cible. Les boucliers sont particulièrement vulnérables à cette arme, et les systèmes touchés peuvent être temporairement désactivés.
+
+La nature continue du faisceau permet une application soutenue des effets de perturbation, mais au prix d'une charge de flux importante.",,,,
+gravitonbeam,,"FR: Un rayon continu qui génère un champ gravitationnel localisé, ralentissant la cible et l'endommageant. Très efficace contre les boucliers.
+
+Le rayon gravitonnel projette un faisceau d'énergie qui crée une distorsion gravitationnelle intense autour de la cible. Cette distorsion ralentit considérablement le vaisseau ciblé tout en surchargeant ses boucliers. Les dégâts sont causés par les forces de cisaillement gravitationnel.
+
+Bien que la charge de flux soit élevée, l'effet de ralentissement combiné aux dégâts continus en fait une arme tactique précieuse.",,,,
+phasebeam,,"FR: Un rayon d'énergie phasique qui ignore partiellement les boucliers. Particulièrement efficace contre le blindage, mais avec une portée limitée.
+
+Le rayon phasique utilise une technologie de pointe pour projeter un faisceau d'énergie qui existe partiellement hors de l'espace normal. Cette propriété unique lui permet de pénétrer partiellement les boucliers ennemis et d'infliger des dégâts directs au blindage.
+
+La technologie de phase est notoirement instable et gourmande en flux, mais les résultats peuvent être dévastateurs.",,,,
+tachyonlance,,"FR: Un puissant rayon d'énergie à longue portée qui inflige des dégâts élevés aux boucliers. Le temps de recharge est long et la charge de flux est importante.
+
+La Lance Tachyonique concentre des particules plus rapides que la lumière en un faisceau dévastateur. L'impact sur les boucliers ennemis est particulièrement violent, causant souvent une surcharge immédiate. La technologie complexe nécessite un temps de recharge considérable entre les tirs.
+
+Une arme redoutable qui nécessite un timing précis et une gestion attentive du flux pour être utilisée efficacement.",,,,
+plasma,,"FR: Un canon qui tire des boules de plasma à haute température. Les dégâts sont répartis entre les boucliers et le blindage, avec une efficacité accrue à courte portée.
+
+Le canon à plasma projette des sphères de gaz ionisé contenu dans un champ magnétique. À l'impact, le plasma se disperse, causant des dégâts thermiques importants tant aux boucliers qu'au blindage. La dispersion du plasma augmente avec la distance.
+
+Une arme polyvalente qui excelle dans les engagements rapprochés, mais qui nécessite une gestion prudente du flux.",,,,
+harpoon,,"FR: Un missile guidé rapide et maniable avec une charge explosive moyenne. Efficace contre les cibles moyennes et légères.
+
+Le missile Harpoon est équipé d'un système de guidage avancé et d'un moteur puissant qui lui permet de poursuivre efficacement sa cible. Sa charge explosive modérée est optimisée pour pénétrer les boucliers et endommager le blindage.
+
+Un excellent compromis entre vitesse, maniabilité et puissance explosive. Particulièrement efficace lorsqu'il est lancé en salves.",,,,
+harpoon_single,,"FR: Une version à tube unique du lanceur de missiles Harpoon standard. Idéal pour les petits vaisseaux qui ne peuvent pas supporter la charge de flux d'un lanceur multiple.
+
+Cette version simplifiée du système Harpoon conserve toutes les caractéristiques du missile - guidage avancé, moteur puissant et charge explosive efficace - mais dans un package plus compact et moins gourmand en flux.
+
+La cadence de tir plus lente est compensée par une meilleure flexibilité tactique et une charge de flux réduite.",,,,
+sabot,,"FR: Un missile antiblindage spécialisé qui ignore les boucliers. Très efficace contre les cibles légèrement blindées, mais facilement intercepté par la défense ponctuelle.
+
+Le missile Sabot utilise une charge creuse avancée pour percer le blindage. Sa conception légère lui permet d'atteindre des vitesses élevées, mais le rend vulnérable aux systèmes de défense ponctuelle.
+
+Particulièrement efficace contre les frégates et les destroyers légèrement blindés, mais moins utile contre les cibles lourdement blindées.",,,,
+sabot_single,,"FR: Une version à tube unique du lanceur de missiles Sabot. Idéal pour les petits vaisseaux nécessitant une capacité antiblindage.
+
+Cette version compacte du système Sabot conserve la même charge creuse perforante et la vitesse élevée du missile, mais avec une cadence de tir réduite et une charge de flux plus faible.
+
+Un excellent choix pour les petits vaisseaux cherchant à conserver une capacité antiblindage sans compromettre leur gestion du flux.",,,,
+reaper,,"FR: Une torpille à guidage limité qui inflige des dégâts dévastateurs aux boucliers. Très efficace contre les grands vaisseaux lents.
+
+La torpille Reaper est équipée d'une ogive à fusion tactique compacte. Son système de guidage simple lui permet de suivre des cibles lentes, mais elle peut être facilement évitée par des vaisseaux agiles. L'explosion massive surcharge presque toujours les boucliers de la cible.
+
+Particulièrement redoutable lorsqu'elle est utilisée en coordination avec d'autres armes pour exploiter la surcharge des boucliers.",,,,
+atropos,,"FR: Une torpille légère et rapide avec un excellent système de guidage. Efficace contre les cibles moyennes et légères.
+
+La torpille Atropos compense sa charge explosive relativement faible par une excellente maniabilité et un système de guidage sophistiqué. Sa petite taille et sa vitesse élevée la rendent difficile à intercepter pour les systèmes de défense ponctuelle.
+
+Idéale pour harceler les frégates et les destroyers, ou pour finir les vaisseaux plus grands déjà endommagés.",,,,
+atropos_single,,"FR: Une version à tube unique de la torpille Atropos. Parfaite pour les petits vaisseaux nécessitant une capacité de frappe précise.
+
+Cette variante conserve toutes les caractéristiques qui font la réputation de l'Atropos - excellente maniabilité, guidage sophistiqué et vitesse élevée - dans un package plus compact nécessitant moins de flux.
+
+La cadence de tir réduite est compensée par une meilleure flexibilité tactique.",,,,
+hammer,,"FR: Un missile lourd à courte portée qui inflige des dégâts massifs aux boucliers. Peu maniable mais difficile à intercepter en raison de sa vitesse.
+
+Le missile Hammer est une arme brutale et directe, propulsé par un moteur surpuissant qui le projette à des vitesses extrêmes vers sa cible. Son ogive massive est conçue pour surcharger instantanément les boucliers ennemis.
+
+Bien que son guidage soit rudimentaire, sa vitesse pure le rend redoutable à courte portée.",,,,
+hammer_single,,"FR: Une version à tube unique du missile Hammer. Idéale pour les vaisseaux moyens cherchant à conserver une capacité anti-bouclier.
+
+Cette version simplifiée conserve la même puissance dévastatrice que son homologue multi-tubes, mais avec une cadence de tir réduite et une charge de flux plus gérable.
+
+Particulièrement utile sur les destroyers et les frégates lourdes qui opèrent à courte portée.",,,,
+typhoon,,"FR: Un lanceur de missiles lourds qui tire une salve dévastatrice de projectiles guidés. Excellent pour saturer les défenses ennemies.
+
+Le système de missiles Typhoon est conçu pour submerger les défenses adverses par le volume de feu. Chaque missile est équipé d'un système de guidage avancé et d'une ogive à fragmentation haute capacité. La salve complète peut rapidement détruire les petits vaisseaux ou causer des dommages significatifs aux plus grandes cibles.
+
+L'importante charge de flux est compensée par la puissance de frappe dévastatrice.",,,,
+squall,,"FR: Un lanceur automatique de roquettes qui maintient un barrage constant de projectiles non guidés. Excellent pour la suppression et le déni de zone.
+
+Le système Squall tire des roquettes à haute cadence, créant un mur de projectiles difficile à éviter. Bien que chaque roquette soit relativement peu puissante et non guidée, leur nombre compense largement ces limitations.
+
+Particulièrement efficace pour forcer l'ennemi à maintenir ses boucliers actifs, épuisant ainsi son flux.",,,,
+annihilator,,"FR: Une torpille lourde spécialisée dans la destruction des blindages. Ignore les boucliers mais facilement interceptée par la défense ponctuelle.
+
+L'Annihilator est équipé d'une charge creuse massive capable de pénétrer les blindages les plus épais. Son système de guidage rudimentaire et sa vitesse modérée le rendent vulnérable aux défenses ponctuelles, mais un seul impact peut être dévastateur.
+
+Particulièrement efficace contre les vaisseaux capitaux lourdement blindés.",,,,
+annihilator_single,,"FR: Une version à tube unique de la torpille Annihilator. Permet aux vaisseaux plus petits d'avoir une capacité anti-blindage significative.
+
+Cette variante conserve la même charge creuse dévastatrice que la version standard, mais dans un package plus compact et moins gourmand en flux. Le guidage rudimentaire et la vulnérabilité aux défenses ponctuelles restent des facteurs à prendre en compte.
+
+Idéal pour les vaisseaux de support qui ont besoin d'une option pour percer les blindages lourds.",,,,
+pdlaser,,"FR: Un laser de défense ponctuelle rapide et précis. Excellent pour intercepter les missiles, mais peu efficace contre les vaisseaux blindés.
+
+Le laser de défense ponctuelle utilise un système de visée assisté par ordinateur pour cibler et détruire les menaces entrantes avec une précision chirurgicale. Sa cadence de tir élevée et sa précision en font un choix idéal pour la protection anti-missile.
+
+Bien que principalement conçu comme système défensif, il peut également être utilisé pour harceler les chasseurs ennemis.",,,,
+lrpdlaser,,"FR: Une version améliorée du laser de défense ponctuelle standard avec une portée accrue. Excellent pour la protection à moyenne distance.
+
+Cette variante sacrifie une partie de la cadence de tir pour une portée significativement plus grande. Le système de visée amélioré permet d'engager les menaces plus tôt, créant une zone de protection plus large autour du vaisseau.
+
+Particulièrement utile sur les grands vaisseaux qui ont besoin d'une protection contre les missiles à longue portée.",,,,
+pdburst,,"FR: Un système de défense ponctuelle qui tire des rafales d'énergie à courte portée. Très efficace contre les missiles groupés.
+
+Le PD Burst crée un barrage dense d'énergie dans un arc devant l'arme, idéal pour intercepter plusieurs menaces simultanément. Bien que sa portée soit limitée, sa capacité à saturer une zone le rend particulièrement efficace contre les salves de missiles.
+
+La courte portée est compensée par une excellente couverture dans sa zone d'effet.",,,,
+flak,,"FR: Un canon antiaérien adapté au combat spatial. Tire des obus qui explosent à proximité des cibles, créant un nuage de shrapnel létal.
+
+Le canon Flak est particulièrement efficace contre les chasseurs et les missiles grâce à ses obus à fragmentation qui créent une zone de déni efficace. Bien que moins précis que les systèmes laser, sa zone d'effet plus large compense largement ce désavantage.
+
+Un excellent choix pour la défense de zone, particulièrement efficace contre les formations serrées de chasseurs.",,,,
+dualflak,,"FR: Une version à double canon du système Flak standard. Offre une couverture plus dense au prix d'une consommation de flux accrue.
+
+Cette version améliorée double la cadence de tir effective, créant une zone de déni encore plus efficace. Les deux canons sont synchronisés pour maximiser la couverture et minimiser les angles morts.
+
+Particulièrement apprécié sur les vaisseaux de ligne qui doivent gérer de multiples menaces simultanément.",,,,
+heavyblaster,,"FR: Un canon à énergie lourd qui tire des projectiles à plasma concentré. Efficace contre les boucliers et le blindage, mais avec une portée limitée.
+
+Le Heavy Blaster concentre une quantité massive d'énergie en une seule décharge dévastatrice. L'impact génère une explosion de plasma qui peut endommager plusieurs systèmes simultanément. La courte portée est compensée par des dégâts exceptionnels.
+
+Une arme redoutable qui nécessite un timing précis et un positionnement agressif pour être pleinement efficace.",,,,
+plasma_cannon,,"FR: Un canon à plasma lourd qui tire des projectiles à haute température. Inflige des dégâts thermiques importants et peut surcharger les boucliers.
+
+Le canon à plasma lourd projette des boules de plasma hautement énergétiques maintenues par un champ de confinement sophistiqué. À l'impact, le plasma se disperse sur une large zone, causant des dégâts thermiques massifs aux boucliers et aux systèmes exposés.
+
+La charge de flux élevée est compensée par une capacité de dégâts exceptionnelle.",,,,
+autopulse,,"FR: Un laser à impulsions automatique qui maintient un tir soutenu. Excellent pour exercer une pression continue sur les boucliers ennemis.
+
+L'Autopulse utilise un système de refroidissement avancé pour maintenir un tir laser quasi-continu. Chaque impulsion individuelle est relativement faible, mais leur accumulation rapide peut rapidement surcharger les boucliers ou faire fondre le blindage.
+
+Particulièrement efficace pour forcer l'ennemi à maintenir ses boucliers actifs, épuisant ainsi son flux.",,,,
+guardian,,"FR: Un système de défense ponctuelle lourd qui combine plusieurs émetteurs laser. Crée une zone de protection dense et efficace.
+
+Le Guardian représente l'apogée de la technologie de défense ponctuelle laser. Ses multiples émetteurs synchronisés peuvent engager plusieurs cibles simultanément, créant une zone de protection presque impénétrable contre les missiles et les chasseurs.
+
+La charge de flux importante est justifiée par sa capacité défensive exceptionnelle.",,,,
+heavyburst,,"FR: Un canon à énergie lourd qui tire des rafales d'impulsions énergétiques à haute puissance. Excellent pour saturer les défenses à moyenne portée.
+
+Le Heavy Burst délivre des rafales concentrées d'énergie pure, chaque salve contenant plusieurs impulsions destructrices. Le volume de feu important peut rapidement submerger les boucliers ennemis ou causer des dégâts critiques aux systèmes exposés.
+
+Bien que la dispersion augmente avec la distance, la densité du tir compense largement cet inconvénient à moyenne portée.",,,,
+mininglaser,,"FR: Un laser industriel reconverti pour le combat. Efficace contre le blindage à très courte portée, mais génère beaucoup de flux.
+
+À l'origine conçu pour le forage minier, ce laser a été modifié pour le combat spatial. Le faisceau concentré peut rapidement découper le blindage ennemi, mais sa courte portée nécessite un engagement très rapproché.
+
+Bien que peu orthodoxe, cette arme peut être dévastatrice entre les mains d'un pilote agressif.",,,,
+miningblaster,,"FR: Une version plus puissante du laser minier standard. Capable de percer rapidement le blindage à courte portée.
+
+Cette version améliorée du laser minier utilise un émetteur plus puissant et un système de focalisation avancé. La puissance de sortie accrue permet de causer des dégâts considérables au blindage, mais la charge de flux reste importante.
+
+Une arme de spécialiste qui excelle dans les attaques surprises à courte portée.",,,,
+heavymauler,,"FR: Un canon lourd qui tire des obus à fragmentation. Excellent pour endommager les systèmes exposés et saturer les boucliers.
+
+Le Heavy Mauler combine une cadence de tir respectable avec des obus explosifs qui créent un nuage de fragments létaux à l'impact. Particulièrement efficace contre les cibles légèrement blindées et les systèmes exposés.
+
+La dispersion des fragments rend cette arme moins précise à longue portée, mais dévastatrice dans les engagements rapprochés.",,,,
+hellbore,,"FR: Un canon massif qui tire des obus perforants à haute vélocité. Capable de causer des dégâts catastrophiques aux systèmes internes.
+
+Le Hellbore représente le summum de l'artillerie navale conventionnelle. Ses obus à haute vélocité peuvent traverser plusieurs couches de blindage, causant des dégâts dévastateurs aux systèmes internes du vaisseau cible.
+
+La cadence de tir lente est compensée par des dégâts par impact exceptionnels.",,,,
+multineedler,,"FR: Une version avancée du Needler qui tire plusieurs projectiles simultanément. Excellent pour saturer les boucliers et percer le blindage léger.
+
+Le Multi-Needler projette une pluie dense de fléchettes à haute vélocité. Chaque salve peut rapidement submerger les boucliers ennemis ou causer des dégâts significatifs aux systèmes exposés.
+
+Particulièrement efficace contre les frégates et les destroyers qui ne peuvent pas maintenir leurs boucliers actifs en permanence.",,,,
+pulselaser,,"FR: Un laser de précision qui tire des impulsions d'énergie concentrée. Excellent équilibre entre efficacité et consommation de flux.
+
+Le Pulse Laser utilise une technologie de pointe pour délivrer des impulsions d'énergie hautement focalisées. Sa précision exceptionnelle et sa faible charge de flux en font une arme polyvalente idéale pour les engagements à moyenne portée.
+
+Particulièrement apprécié des capitaines qui privilégient l'efficacité tactique à la puissance brute.",,,,
+ionpulser,,"FR: Une arme expérimentale qui tire des impulsions d'énergie ionique concentrée. Peut désactiver temporairement les systèmes ennemis.
+
+L'Ion Pulser projette des impulsions d'énergie ionique qui perturbent les systèmes électroniques de la cible. Chaque impact peut temporairement désactiver les armes, les moteurs ou d'autres systèmes critiques.
+
+Une arme de support efficace qui excelle dans les tactiques de désactivation et de contrôle.",,,,
+phasebeam,,"FR: Un rayon d'énergie phasique qui ignore partiellement les boucliers. Particulièrement efficace contre le blindage.
+
+Le Phase Beam utilise une technologie de phase avancée pour projeter un rayon d'énergie qui existe partiellement hors de l'espace normal. Cette propriété unique lui permet de pénétrer partiellement les boucliers ennemis et d'infliger des dégâts directs au blindage.
+
+Bien que gourmand en flux, sa capacité à ignorer partiellement les boucliers en fait une arme redoutable.",,,,
+cyclone,,"FR: Un lanceur de roquettes automatique qui maintient un barrage constant de projectiles guidés. Excellent pour la suppression et le harcèlement.
+
+Le système Cyclone combine une cadence de tir élevée avec des roquettes légèrement guidées. Bien que chaque roquette soit relativement peu puissante, leur nombre et leur guidage basique les rendent difficiles à éviter complètement.
+
+Particulièrement efficace pour forcer l'ennemi à maintenir ses boucliers actifs, épuisant ainsi ses réserves de flux.",,,,
+locust,,"FR: Un lanceur de missiles qui déploie un essaim de petits projectiles autonomes. Excellent pour submerger les défenses ennemies.
+
+Le système Locust libère une nuée de petits missiles semi-autonomes qui poursuivent agressivement leur cible. Bien que chaque missile soit peu puissant individuellement, leur nombre et leur comportement de poursuite les rendent particulièrement efficaces pour saturer les défenses.
+
+Une arme idéale pour créer le chaos dans les lignes ennemies et diviser leur attention.",,,,
+amblaster,,"FR: Un canon à antimatière qui tire des projectiles hautement instables. Inflige des dégâts massifs à très courte portée.
+
+L'AM Blaster est l'une des armes les plus dangereuses jamais créées. Il projette des capsules d'antimatière confinées qui, à l'impact, provoquent une réaction d'annihilation dévastatrice. La portée extrêmement courte est compensée par des dégâts catastrophiques.
+
+Une arme qui nécessite autant de courage que de compétence pour être utilisée efficacement.",,,,
+antimatterpulse,,"FR: Une version améliorée de l'AM Blaster qui tire des projectiles d'antimatière plus stables. Meilleure portée mais dégâts plus dispersés.
+
+L'Antimatter Pulse utilise un système de confinement plus sophistiqué pour projeter des capsules d'antimatière plus stables. La réaction d'annihilation est plus contrôlée, permettant une meilleure portée au prix d'une dispersion accrue des dégâts.
+
+Une alternative plus flexible à l'AM Blaster standard, mais qui requiert toujours un engagement rapproché.",,,,
+resonatormrm,,"FR: Un lanceur de missiles qui tire des projectiles équipés de générateurs de résonance. Peut déstabiliser les boucliers ennemis.
+
+Le Resonator MRM combine un système de guidage avancé avec une technologie de résonance unique. Les missiles créent des perturbations dans les champs de bouclier ennemis, les rendant plus vulnérables aux attaques subséquentes.
+
+Une arme de support sophistiquée qui excelle dans les tactiques coordonnées.",,,,
+disintegrator,,"FR: Une arme expérimentale qui projette un faisceau d'énergie désintégratrice. Ignore partiellement les boucliers et le blindage.
+
+Le Disintegrator utilise une technologie mystérieuse pour créer un rayon qui décompose la matière au niveau moléculaire. Bien que la portée soit limitée et la charge de flux importante, sa capacité à ignorer les défenses conventionnelles en fait une arme redoutable.
+
+Les mécanismes exacts de son fonctionnement restent un mystère, même pour ses opérateurs.",,,,
+shockrepeater,,"FR: Une arme qui tire des projectiles d'énergie à effet de choc. Excellent pour perturber les systèmes ennemis.
+
+Le Shock Repeater combine une cadence de tir élevée avec des projectiles qui créent des perturbations électromagnétiques à l'impact. Bien que les dégâts directs soient modérés, l'effet cumulatif peut sérieusement entraver les performances d'un vaisseau ennemi.
+
+Particulièrement efficace en tant qu'arme de support dans les engagements prolongés.",,,,

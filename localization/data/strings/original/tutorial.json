@@ -1,0 +1,21 @@
+{
+  "strings": {
+    "tutorial.welcome.title": "Bienvenue dans Starsector",
+    "tutorial.welcome.text": "Bienvenue dans le tutoriel de Starsector ! Nous allons vous guider à travers les bases du jeu.",
+    "tutorial.controls.movement.title": "Contrôles de Base",
+    "tutorial.controls.movement.text": "Utilisez les touches ZQSD ou les flèches directionnelles pour déplacer votre vaisseau.\\nMaintenez SHIFT pour accélérer.",
+    "tutorial.controls.mouse.title": "Contrôle de la Souris",
+    "tutorial.controls.mouse.text": "Utilisez la souris pour viser. Le vaisseau tournera automatiquement pour faire face à la direction pointée.",
+    "tutorial.combat.weapons.title": "Systèmes d'Armes",
+    "tutorial.combat.weapons.text": "Clic gauche pour tirer avec les armes principales.\\nClic droit pour tirer avec les armes secondaires.",
+    "tutorial.combat.flux.title": "Gestion du Flux",
+    "tutorial.combat.flux.text": "Le flux est l'énergie de votre vaisseau. Surveillez la jauge de flux en bas à droite.\\nUn flux trop élevé peut faire surchauffer votre vaisseau.",
+    "tutorial.combat.shields.title": "Boucliers",
+    "tutorial.combat.shields.text": "Appuyez sur ESPACE pour activer les boucliers.\\nLes boucliers consomment du flux mais protègent votre vaisseau.",
+    "tutorial.combat.venting.title": "Ventilation",
+    "tutorial.combat.venting.text": "Appuyez sur V pour ventiler le flux excédentaire.\\nAttention : votre vaisseau est vulnérable pendant la ventilation !",
+    "tutorial.combat.orders.title": "Ordres à la Flotte",
+    "tutorial.combat.orders.text": "Utilisez les touches 1-9 pour donner des ordres à vos vaisseaux.\\nMAINTENIR pour sélectionner plusieurs vaisseaux."
+  },
+  "tips": []
+}

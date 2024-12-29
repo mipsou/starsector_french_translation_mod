@@ -1,0 +1,124 @@
+{
+  "codex": {
+    "damage_kinetic": {
+      "title": "FR:Kinetic Damage",
+      "body": "FR:Kinetic damage is great against shields, but poor against armor."
+    },
+    "damage_highexplosive": {
+      "title": "FR:High Explosive Damage",
+      "body": "FR:High explosive damage is great against armor, but poor against shields."
+    },
+    "damage_fragmentation": {
+      "title": "FR:Fragmentation Damage",
+      "body": "FR:Fragmentation damage is very poor against both armor and shields. However, weapons dealing fragmentation damage usually have a very high DPS, making them devastating vs lightly-armored, unshielded targets such as light fighters and missiles.\n\nIt can also be highly effective against a ship whose armor is stripped away by battle damage."
+    },
+    "damage_energy": {
+      "title": "FR:Energy Damage",
+      "body": "FR:Energy damage is equally effective against shields and armor."
+    },
+    "damage_other": {
+      "title": "FR:Other Damage",
+      "body": "FR:This weapon is special. In reality, though, if you're seeing this, it's probably a bug."
+    }
+  },
+  "warroom": {
+    "pause": {
+      "title": "FR:Pause",
+      "body": "FR:Pauses the game."
+    },
+    "play": {
+      "title": "FR:Unpause",
+      "body": "FR:Unpauses the game."
+    },
+    "combatTime": "FR:Time elapsed with both fleets in contact with each other.\n\nThe peak performance time of reinforcements is reduced by half of the combat time."
+  },
+  "fleetScreen": {
+    "tooltipCaptain": {
+      "title": "FR:Assign Captain",
+      "body": "FR:Assign a captain (yourself or an officer) to this ship. The ship will benefit from the captain's skills."
+    },
+    "tooltipAdmin": {
+      "title": "FR:Assign Administrator",
+      "body": "FR:Assign an administrator (or yourself) to govern this colony, which will then benefit from the assigned administrator's skills."
+    },
+    "tooltipAdminNonPlayer": {
+      "title": "FR:Administrator",
+      "body": "FR:This colony is not governed by an administrator of any note."
+    },
+    "tooltipBuy": {
+      "title": "FR:Buy",
+      "body": "FR:Buy this %s for %d credits."
+    },
+    "tooltipSell": {
+      "title": "FR:Sell",
+      "body": "FR:Sell this %s for %d credits."
+    },
+    "tooltipTake": {
+      "title": "FR:Take",
+      "body": "FR:Take this %s."
+    },
+    "tooltipGive": {
+      "title": "FR:Store",
+      "body": "FR:Transfer this %s from your fleet. Its combat readiness will remain unchanged while it's in storage."
+    },
+    "tooltipMothball": {
+      "title": "FR:Mothball",
+      "body": "FR:Mothballed %ss can't be used in combat or repaired, and do not provide any fuel, cargo, or personnel capacity.\n\nMothballing a ship will reduce its combat readiness to zero; restoring it will require time and supplies."
+    },
+    "tooltipUnmothball": {
+      "title": "FR:Mothball",
+      "body": "FR:Mothballed %ss can't be used in combat or repaired, and do not provide any fuel, cargo, or personnel capacity.\n\nRestoring this ship's combat readiness after unmothballing it will consume %s supplies over %s day(s)."
+    },
+    "tooltipScuttle": {
+      "title": "FR:Scuttle",
+      "body": "FR:Strip this %s of anything useful, gaining %d supplies, %d fuel, and %d heavy machinery."
+    },
+    "tooltipSuspendRepairs": {
+      "title": "FR:Suspend Repairs & Recovery",
+      "body": "FR:Prevents this %s from performing repairs or recovering combat readiness. Full repairs and CR recovery will consume approximately %s supplies over %s days if allowed to proceed."
+    },
+    "tooltipSuspendRepairsNotNeeded": {
+      "title": "FR:Suspend Repairs & Recovery",
+      "body": "FR:Prevents this %s from performing repairs or recovering combat readiness. This %s does not currently require repairs or CR recovery."
+    },
+    "tooltipRefit": {
+      "title": "FR:Refit",
+      "body": "FR:Change the weapons and hullmods equipped on this ship."
+    },
+    "tooltipLogisticalPriority": {
+      "title": "FR:Logistical Priority",
+      "body": "FR:%ss with logistical priority get first pick of crew and supplies available for repairs."
+    },
+    "tooltipCrewElite": {
+      "title": "FR:Elite",
+      "body": "FR:Crew this %s with the best personnel available."
+    },
+    "tooltipCrewVeteran": {
+      "title": "FR:Veteran",
+      "body": "FR:Crew this %s with only veteran crew and below, if possible."
+    },
+    "tooltipCrewRegular": {
+      "title": "FR:Regular",
+      "body": "FR:Crew this %s with only regular crew and below, if possible."
+    },
+    "tooltipCrewGreen": {
+      "title": "FR:Green",
+      "body": "FR:Crew this %s only with green crew, if possible."
+    },
+    "tooltipCrewBar": {
+      "title": "FR:",
+      "body": "FR:Crew fraction on this %s."
+    }
+  },
+  "logistics": {
+    "marines": "FR:Number of marines in the fleet.",
+    "crew": "FR:Number of crew in the fleet, and the number needed to meet the minimum requirements on all ships in the fleet.",
+    "supplies": "FR:Available supplies and supply use per day.",
+    "credits": "FR:Available credits."
+  },
+  "misc": {
+    "jumpPointNormal": "FR:Jump points can be used to transit between hyperspace and normal space. Some jump points also lead to other destinations.",
+    "jumpPointStar": "FR:The gravity well of a star is deep enough to provide a one-way exit from hyperspace. Using one is, however, extremely difficult and dangerous.",
+    "jumpPointGasGiant": "FR:The gravity well of a gas giant is often deep enough to provide a one-way exit from hyperspace."
+  }
+}

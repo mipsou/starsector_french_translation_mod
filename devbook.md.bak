@@ -1,0 +1,193 @@
+# Journal de Développement - Mod de Traduction Française Starsector
+
+## Informations du Projet
+
+### Dépôt Original
+- URL : https://github.com/grena/starsector_french_translation_mod.git
+- Initié en 2017 par Neuroxer
+- Repris et déplacé sur GitHub par grena
+
+### Structure du Projet
+- `translations/` : Fichiers sources à traduire
+- `data/` : Fichiers générés (NE PAS MODIFIER DIRECTEMENT)
+- `fetch_new_strings.py` : Script principal de gestion des traductions
+- `CDC.md` : Cahier des charges
+- `devbook.md` : Journal de développement
+
+## État Actuel du Projet (28/12/2023)
+
+### Workflow de Traduction
+1. **Récupération des chaînes**
+   ```sh
+   python3 fetch_new_strings.py --action fetch
+   ```
+2. **Traduction des fichiers** dans `translations/`
+3. **Génération des fichiers finaux**
+   ```sh
+   python3 fetch_new_strings.py --action write
+   ```
+
+### Fichiers en Cours de Traduction
+- `translations/strings/descriptions.csv`
+  - ✅ Atropos
+  - ✅ Atropos Single
+  - ✅ Breach
+  - ✅ Breachpod
+  - ✅ Pilum
+  - ✅ Pilum Large
+  - ✅ Phasecl
+  - ✅ Phasecl Bomber
+  - ✅ Typhoon
+  - ✅ Cyclone
+
+### Problèmes Rencontrés
+1. **Encodage des Caractères**
+   - Difficultés avec l'encodage UTF-8 des caractères spéciaux français
+   - Fichier principal : problèmes d'encodage (ÃƒÂ© au lieu de é)
+   - Fichier descriptions_new.csv : encodage correct mais incomplet
+
+2. **Gestion des Fichiers**
+   - Présence de fichiers temporaires dans le dépôt
+   - Scripts de mise à jour redondants
+   - Besoin d'unification des outils
+
+## Prochaines Étapes
+
+### Immédiat (Priorité Haute)
+1. **Nettoyage du Dépôt**
+   - [ ] Supprimer les fichiers temporaires
+   - [ ] Unifier les scripts de mise à jour
+   - [ ] Suivre la structure du dépôt original
+
+2. **Correction de l'Encodage**
+   - [ ] Utiliser descriptions_new.csv comme base (encodage correct)
+   - [ ] Transférer toutes les traductions
+   - [ ] Valider avec fetch_new_strings.py
+
+### Court Terme
+1. **Standardisation**
+   - [ ] Suivre le workflow du dépôt original
+   - [ ] Documenter le processus de traduction
+   - [ ] Créer des tests d'encodage
+
+2. **Traductions**
+   - [ ] Compléter les descriptions d'armes
+   - [ ] Valider les traductions existantes
+   - [ ] Préparer le prochain lot de traductions
+
+### Moyen Terme
+1. **Amélioration des Outils**
+   - [ ] Étendre fetch_new_strings.py si nécessaire
+   - [ ] Ajouter des validations automatiques
+   - [ ] Créer des outils de backup
+
+2. **Documentation**
+   - [ ] Guide de contribution
+   - [ ] Guide de traduction
+   - [ ] Maintenance du CHANGELOG
+
+## Notes et Observations
+
+### Points d'Attention
+1. Suivre strictement le workflow du dépôt original
+2. Ne pas modifier directement les fichiers dans `data/`
+3. Toujours utiliser fetch_new_strings.py pour les mises à jour
+4. Maintenir la cohérence des traductions
+
+### Ressources
+- [Dépôt Original](https://github.com/grena/starsector_french_translation_mod.git)
+- [Forum Starsector](https://fractalsoftworks.com/forum/index.php?topic=12799.msg216851#msg216851)
+- [Documentation du Jeu](https://fractalsoftworks.com/)
+
+## Mise à jour finale du devbook avec les systèmes de vaisseaux
+
+### Traductions Complétées (28/12/2023)
+- Descriptions d'armes (43 armes traduites)
+- Descriptions de vaisseaux (21 vaisseaux traduits)
+- Systèmes de vaisseaux (15 systèmes traduits) :
+  - Systèmes de Mouvement :
+    - Jets de Manœuvre (Maneuvering Jets)
+    - Burn Drive
+    - Coquille Temporelle (Temporal Shell)
+    - Jets de Plasma (Plasma Jets)
+    - Microburn
+  - Systèmes de Combat :
+    - Râteliers à Missiles Rapides (Fast Missile Racks)
+    - Amortisseur (Damper)
+    - Dérivateur de Flux (Flux Shunt)
+    - Focus Haute Énergie (High Energy Focus)
+    - Flux de Ciblage (Targeting Feed)
+    - Flux de Munitions (Ammo Feed)
+  - Systèmes Spécialisés :
+    - Cape de Phase (Phase Cloak)
+    - Sanction Forcée (Forced Sanction)
+    - Displacer
+    - Disrupteur Quantique (Quantum Disruptor)
+
+### En Cours
+- Révision finale des traductions
+- Tests en jeu des traductions
+- Documentation des termes techniques
+
+### Prochaines Étapes
+1. Tests approfondis en jeu
+2. Correction des erreurs éventuelles
+3. Mise à jour du mod sur le forum
+4. Recueil des retours de la communauté
+
+### Notes Techniques
+- Encodage UTF-8 avec BOM pour tous les fichiers
+- Format CSV avec guillemets pour les champs multilignes
+- Préfixe "FR:" pour identifier les traductions
+- Cohérence maintenue dans la terminologie technique
+
+### Termes Techniques Standardisés
+#### Vaisseaux et Classes
+- "fighter" → "chasseur"
+- "bomber" → "bombardier"
+- "carrier" → "porte-vaisseaux"
+- "battleship" → "cuirassé"
+- "cruiser" → "croiseur"
+- "destroyer" → "destroyer"
+- "frigate" → "frégate"
+
+#### Systèmes et Équipement
+- "shield" → "bouclier"
+- "armor" → "blindage"
+- "flux" → "flux"
+- "missile" → "missile"
+- "torpedo" → "torpille"
+- "beam" → "rayon"
+- "burst" → "rafale"
+- "phase" → "phasique"
+- "point defense" → "défense ponctuelle"
+- "warhead" → "ogive"
+- "drive" → "propulsion"
+- "system" → "système"
+- "targeting" → "ciblage"
+- "feed" → "flux"
+
+### Structure des Fichiers
+```
+translations/
+  ├── strings/
+  │   ├── descriptions_fr.csv  (descriptions d'armes)
+  │   ├── ships_fr.csv         (descriptions de vaisseaux)
+  │   └── systems_fr.csv       (descriptions des systèmes)
+  └── data/
+      └── config/
+          └── settings.json    (configuration du mod)
+```
+
+### Validation des Traductions
+1. Vérification de la cohérence terminologique
+2. Test des caractères spéciaux
+3. Vérification des formats de fichiers
+4. Tests en jeu des traductions
+5. Validation par la communauté
+
+### Notes sur la Qualité
+- Maintien d'un style cohérent entre toutes les descriptions
+- Respect du ton technique et militaire du jeu
+- Adaptation culturelle appropriée
+- Conservation des termes spécifiques à l'univers du jeu
