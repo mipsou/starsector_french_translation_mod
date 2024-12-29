@@ -1,0 +1,67 @@
+{
+	# only applies to intel tags
+	
+	"New":{
+		"name":"Nouveau",
+		"color":"buttonShortcut",
+		"width":118,
+		"putFirst":true,
+		"sort":10,
+	},
+	"Important":{
+		"name":"Important",
+		#"color":"buttonShortcut",
+		"width":118,
+		"putFirst":true,
+		"sort":20,
+	},
+	"Major events":{
+		"name":"Événements majeurs",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":30,
+	},
+	"Missions":{
+		"name":"Missions",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":40,
+	},
+	"Economy":{
+		"name":"Économie",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":50,
+	},
+	"Trade":{
+		"name":"Commerce",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":60,
+	},
+	"Military":{
+		"name":"Militaire",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":70,
+	},
+	"Exploration":{
+		"name":"Exploration",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":80,
+	},
+	"Colonies":{
+		"name":"Colonies",
+		#"color":"buttonShortcut",
+		"width":119,
+		"putFirst":true,
+		"sort":90,
+	}
+}

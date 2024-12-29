@@ -1,0 +1,32 @@
+{
+	"military":{
+		"name":"Militaire",
+		#"color":"buttonShortcut",
+		#"putFirst":true,
+		"sort":10,
+	},
+	"trade":{
+		"name":"Commerce",
+		#"color":"buttonShortcut",
+		#"putFirst":true,
+		"sort":20,
+	},
+	"underworld":{
+		"name":"Pègre",
+		#"color":"buttonShortcut",
+		#"putFirst":true,
+		"sort":30,
+	},
+	"science":{
+		"name":"Science",
+		#"color":"buttonShortcut",
+		#"putFirst":true,
+		"sort":40,
+	},
+	"diplomatic":{
+		"name":"Diplomatique",
+		#"color":"buttonShortcut",
+		#"putFirst":true,
+		"sort":50,
+	},
+}
